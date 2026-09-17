@@ -1,0 +1,350 @@
+
+toestemming voor de volgende onderzoeksfase. De populatiebrede herlezing en de eindcontrole toetsten
+vervolgens opnieuw of positieve scores door passages en paginanummers werden gedragen.
+AI en de opdrachtgever zijn procesmatig betrokken, maar geen feitelijke bron. Alleen de oorspronkelijke
+akkoorden, officiële GNMI-publicaties en expliciet benoemde officiële regionale documenten dragen inhoudelijke
+claims. Deze afbakening voorkomt dat een AI-samenvatting, transcript of beoordelaarsnotitie ongemerkt als
+beleidsbewijs wordt gebruikt.
+
+
+14.6 Beperkingen
+   Akkoorden meten politieke agendering en voorgenomen inzet, niet feitelijke uitvoering, budgetrealisatie of
+    beleidseffecten.
+   Drie van de 88 verwachte gemeenten ontbreken inhoudelijk. Inhoudelijke percentages gebruiken daarom
+    N=85; de verhouding 85 van 88 wordt uitsluitend als brondekking vermeld.
+   De lengte en detaillering van akkoorden verschillen. De intensiteitsschaal beperkt dit documenteffect, maar
+    verwijdert het niet volledig.
+   De H14-herlezing is een intra-codercontrole en geen onafhankelijke interbeoordelaarsmeting.
+   Voerendaal is opgenomen op basis van de bevestiging dat het concept ongewijzigd is vastgesteld.
+   Regio Achterhoek is binnen de vastgezette populatie niet cijfermatig vergelijkbaar en krijgt geen
+    geconstrueerde score.
+   De GNMI-referentiematrix is tijdgebonden aan 15 augustus 2026. Latere ontwikkelingen, waaronder het MIRT
+    Overzicht 2027, zijn alleen als context opgenomen.
+
+
+
+15 Bijlagen
+Bijlage A Definitieve codeboom
+T01 Verkeersveiligheid en veilig verkeersgedrag
+Beleid dat het risico op verkeersslachtoffers, verkeersonveiligheid of onveilig verkeersgedrag vermindert.
+Subthema’s. Veilige inrichting en snelheid; schoolroutes en kwetsbare verkeersdeelnemers; handhaving en
+educatie; fatbikes/e-bikes en snelheidsverschillen
+Inclusie. Expliciete verkeersveiligheidsdoelen; 30 km met veiligheidsmotief; veilige schoolroutes, kruispunten en
+oversteekplaatsen; verkeershandhaving en -educatie.
+Exclusie. Sociale veiligheid, criminaliteit en algemene woorden als ‘veilige buurt’ zonder verkeerscontext. Een
+wegproject dat uitsluitend doorstroming dient valt onder T04.
+
+T02 Lopen, fietsen en actieve mobiliteit
+Beleid voor verplaatsingen te voet of per fiets en voor de bijbehorende netwerken en voorzieningen.
+Subthema’s. Voetgangersnetwerk; fietsnetwerk en ontbrekende schakels; doorfiets- en snelfietsroutes;
+fietsparkeren en routekwaliteit
+Inclusie. Wandel- en fietspaden, doorfietsroutes, fietsstraten, fietsbruggen, fietsparkeren, voetgangersruimte en
+actieve mobiliteitsstimulering.
+Exclusie. Wandelen of fietsen uitsluitend als sport, recreatie of toeristisch product zonder verplaatsings- of
+infrastructuurfunctie. Veiligheidsmaatregelen worden aanvullend onder T01 gecodeerd.
+
+T03 Openbaar, collectief en vraagafhankelijk vervoer
+Beleid voor collectieve vervoersdiensten en de infrastructuur, knooppunten en concessies die deze diensten
+mogelijk maken.
+
+
+
+                                                                                                   17 september 2026 |   35
+                                                                           GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+Subthema’s. Bus, tram en metro; spoor en stations; buurt-, wijk- en vraagafhankelijk vervoer; haltes,
+overstappen en OV-knooppunten
+Inclusie. Bus, trein, tram, metro, HOV/BRT, concessies, stations, haltes, buurtbus, wijkbus, publiek vervoer en
+vraagafhankelijk vervoer.
+Exclusie. Algemene bereikbaarheid zonder benoemde collectieve vervoersvorm. Doelgroepenvervoer dat alleen
+als zorg- of aanbestedingstaak wordt genoemd, telt pas mee bij een mobiliteitsinhoudelijke uitwerking.
+
+T04 Autoverkeer, wegennet, doorstroming en ontsluiting
+Beleid voor de functie, capaciteit en circulatie van het wegennet en voor bereikbaarheid per auto of
+gemotoriseerd verkeer.
+Subthema’s. Hoofdwegen en corridors; ringen, rondwegen en aansluitingen; verkeerscirculatie en autoluwte;
+verkeersdruk, sluipverkeer en ontsluiting
+Inclusie. Rondwegen, ringwegen, tunnels, hoofdontsluitingen, aansluitingen op provinciale of rijkswegen,
+verkeerscirculatie, doorstroming en autoluwe ingrepen met een netwerkdoel.
+Exclusie. Een 30-km-maatregel die uitsluitend als veiligheidsmaatregel is beschreven (T01); vrachtverkeer met
+een specifieke goederen- of logistieke functie (T09); parkeren (T05).
+
+T05 Parkeren en ruimte voor stilstaande mobiliteit
+Beleid voor capaciteit, regulering, prijs, normen en ruimtelijke inpassing van parkeer- en stallingsvoorzieningen.
+Subthema’s. Capaciteit en parkeerdruk; tarieven, vergunningen en zones; parkeernormen; garages, P+R en
+randparkeren
+Inclusie. Parkeerplaatsen, parkeerdruk, parkeernormen, vergunningen, betaald parkeren, blauwe zones,
+parkeergarages en P+R.
+Exclusie. Fietsparkeren valt onder T02. Een mobiliteitshub zonder parkeerfunctie valt onder T03 of T07.
+Parkeren dat slechts als opsomming bij woningbouw staat, telt maximaal als T05-1.
+
+T06 Mobiliteit in ruimte, woningbouw en leefomgeving
+Integratie van mobiliteit met gebiedsontwikkeling, woningbouw, openbare ruimte, gezondheid, groen en
+ruimtelijke kwaliteit.
+Subthema’s. Knooppunt- en gebiedsontwikkeling; mobiliteit bij woningbouw; herverdeling openbare ruimte;
+leefbaarheid, gezondheid en ruimtelijke principes
+Inclusie. STOMP/STROMP, mobiliteit vanaf de start van gebiedsontwikkeling, woningbouw bij knooppunten,
+complete wijken, ruimteherverdeling en integrale openbare-ruimtekeuzes.
+Exclusie. Losse infrastructuurprojecten zonder ruimtelijke integratie; algemene ruimtelijke ambities waarin
+mobiliteit niet inhoudelijk is uitgewerkt.
+
+T07 Duurzame, gedeelde en slimme mobiliteit
+Beleid dat vervoerswijzen, voertuigen of mobiliteitsdiensten schoner, gedeeld, digitaal ondersteund of innovatief
+organiseert.
+Subthema’s. Deelmobiliteit; laad- en zero-emissie-infrastructuur; mobiliteitshubs en ketendiensten; pilots, data,
+monitoring en slimme sturing
+Inclusie. Deelauto’s, deelfietsen, deelscooters, laadpalen, elektrisch vervoer, zero-emissie, mobiliteitshubs,
+MaaS, slimme routekeuzes, pilots en monitoring.
+Exclusie. Een algemene duurzaamheidsambitie zonder mobiliteitsmaatregel; regulier OV zonder innovatie-
+element (T03); energiehubs zonder vervoersfunctie.
+
+
+
+
+                                                                                                   17 september 2026 |   36
+                                                                           GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+T08 Toegankelijke en betaalbare mobiliteit; bereikbaarheid van kernen
+Beleid dat mobiliteit bruikbaar en betaalbaar maakt voor specifieke groepen of dat isolement van dorpen, kernen
+en buitengebied voorkomt.
+Subthema’s. Mensen met een beperking en ouderen; betaalbaarheid en minima; bereikbaarheid kleine kernen
+en buitengebied; doelgroepen- en wijkvervoer
+Inclusie. Barrièrevrije haltes en openbare ruimte, betaalbaar/gratis vervoer, minima- of doelgroepregelingen,
+dorpsbereikbaarheid en mobiliteit voor ouderen of minder mobiele inwoners.
+Exclusie. Algemene toegankelijkheid als synoniem voor bereikbaarheid; algemene OV-uitbreiding zonder
+doelgroep, betaalbaarheid of territoriale achterstand.
+
+T09 Goederenvervoer, logistiek en bijzondere vervoersstromen
+Beleid voor goederenstromen, bevoorrading, vracht, havens, vaarwegen en specifieke vervoersmarkten zoals
+luchtvaart en taxi.
+Subthema’s. Stads- en last-mile-logistiek; vracht- en agro-logistiek; havens, scheepvaart en vaarwegen;
+luchtvaart, taxi en toeristische vervoersstromen
+Inclusie. Vrachtverkeer, distributie, goederen- of logistieke hubs, bevoorrading, havens, scheepvaart, nautische
+bereikbaarheid, luchthavenbeleid en taxi.
+Exclusie. Algemeen autoverkeer zonder goederenfunctie (T04); recreatief varen zonder bereikbaarheids- of
+infrastructuurbeleid; bedrijventerrein alleen als economische locatie.
+
+T10 Beheer, onderhoud en civiele infrastructuur
+Beleid voor instandhouding, vervanging en technische kwaliteit van wegen, bruggen, kades, tunnels, sluizen en
+andere mobiliteitsassets.
+Subthema’s. Wegenbeheer en onderhoudsniveau; bruggen, kades, sluizen en tunnels; vervanging en renovatie;
+assetmanagement, verlichting en beheerplanning
+Inclusie. Planmatig onderhoud, beheerplannen, vervangingsinvesteringen, civiele kunstwerken, bruggen, kades,
+sluizen, tunnels en mobiliteitsgebonden verlichting.
+Exclusie. Nieuwe aanleg die uitsluitend netwerkcapaciteit toevoegt (T04); riolering, energie- of digitale
+infrastructuur zonder mobiliteitsfunctie; algemeen groenbeheer.
+
+T11 Uitvoering, samenwerking, financiering en kennis
+De bestuurlijke en organisatorische voorwaarden waarmee mobiliteitsbeleid wordt gepland, gefinancierd,
+gemonitord of samen met anderen uitgevoerd.
+Subthema’s. Visies, programma’s en uitvoeringsagenda’s; regionale samenwerking en lobby; fondsen, subsidies
+en cofinanciering; capaciteit, data, monitoring en governance
+Inclusie. Mobiliteitsvisies, uitvoeringsprogramma’s, investeringsagenda’s, budgetten, fondsen, subsidies, MIRT,
+cofinanciering, regionale samenwerking, capaciteit en monitoring.
+Exclusie. Algemene samenwerking of financiën zonder directe koppeling aan mobiliteit of infrastructuur. T11 mag
+nooit een ontbrekend inhoudelijk thema vervangen.
+
+
+Bijlage B Volledige ranglijsten
+B1 Rechtstreeks aangesloten gemeenten
+   Volgorde        Rang         Gemeente       Provincie         A              B               C-alt           Totaal
+
+      1        1              Amsterdam     Noord-Holland   10            10              10               30
+
+      2        1              Eindhoven     Noord-Brabant   10            10              10               30
+
+
+
+                                                                                                   17 september 2026 |   37
+                                                                       GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+Volgorde        Rang      Gemeente           Provincie         A            B                C-alt           Totaal
+
+   3       3           Rotterdam          Zuid-Holland    10       10                 10                30
+
+   4       4           Dordrecht          Zuid-Holland    10       10                 10                30
+
+   5       4           Waalwijk           Noord-Brabant   10       10                 10                30
+
+   6       6           Alkmaar            Noord-Holland   10       10                 10                30
+
+   7       7           Groningen          Groningen       9        10                 10                29
+
+                       Alphen aan den
+   8       8                              Zuid-Holland    9        10                 10                29
+                       Rijn
+
+   9       9           Coevorden          Drenthe         9        10                 10                29
+
+  10       10          Venlo              Limburg         9        10                 10                29
+
+  11       11          Urk                Flevoland       10       9                  10                29
+
+  12       12          Middelburg         Zeeland         10       10                 8,75              28,75
+
+  13       13          Zaanstad           Noord-Holland   10       10                 8,75              28,75
+
+  14       14          Houten             Utrecht         8        10                 10                28
+
+  15       15          Den Haag           Zuid-Holland    9        9                  10                28
+
+  16       16          Utrecht            Utrecht         9        10                 8,75              27,75
+
+  17       17          Apeldoorn          Gelderland      10       10                 7,50              27,50
+
+  18       17          Tilburg            Noord-Brabant   10       10                 7,50              27,50
+
+  19       19          Beverwijk          Noord-Holland   7        10                 10                27
+
+  20       20          Emmen              Drenthe         8        10                 8,75              26,75
+
+  21       21          Enschede           Overijssel      10       10                 6,25              26,25
+
+  22       22          Deventer           Overijssel      8        10                 7,50              25,50
+
+  23       23          Doetinchem         Gelderland      8        10                 7,50              25,50
+
+  24       24          Nijmegen           Gelderland      9        10                 6,25              25,25
+
+  25       25          Breda              Noord-Brabant   10       10                 5                 25
+
+  26       26          Haarlem            Noord-Holland   10       10                 5                 25
+
+  27       27          Gouda              Zuid-Holland    7        10                 7,50              24,50
+
+  28       28          Arnhem             Gelderland      8        10                 6,25              24,25
+
+  29       29          Purmerend          Noord-Holland   8        10                 6,25              24,25
+
+  30       30          Amersfoort         Utrecht         9        10                 5                 24
+
+  31       31          Hardenberg         Overijssel      9        10                 5                 24
+
+  32       32          Almere             Flevoland       7        9                  7,50              23,50
+
+  33       33          Westerwolde        Groningen       8        9                  6,25              23,25
+
+  34       34          Aa en Hunze        Drenthe         7        9                  6,25              22,25
+
+  35       35          Ede                Gelderland      7        10                 5                 22
+
+  36       36          Culemborg          Gelderland      7        10                 5                 22
+
+  37       37          Vijfheerenlanden   Utrecht         8        9                  5                 22
+
+  38       38          Noordoostpolder    Flevoland       10       8                  3,75              21,75
+
+  39       39          Leeuwarden         Fryslân         9        10                 2,50              21,50
+
+  40       40          Helmond            Noord-Brabant   7        9                  5                 21
+
+  41       41          Altena             Noord-Brabant   8        9                  3,75              20,75
+
+  42       42          Almelo             Overijssel      8        9                  2,50              19,50
+
+
+
+
+                                                                                                17 september 2026 |   38
+                                                                             GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+   Volgorde        Rang      Gemeente            Provincie           A            B                C-alt               Totaal
+
+     43       43          Barneveld           Gelderland         6       9                  2,50               17,50
+
+     44       44          Lelystad            Flevoland          6       3                  3,75               12,75
+
+
+
+
+B2 Gemeenten via een regio
+   Volgorde        Rang      Gemeente              Regio             A            B                C-alt               Totaal
+
+                                              RMO Zuid-
+      1       1           Stein                                  9       10                 10                 29
+                                              Limburg
+
+                                              Regio Groningen-
+      2       2           Midden-Groningen                       9       10                 10                 29
+                                              Assen
+
+                                              Regio Arnhem-
+      3       3           Rheden                                 9       10                 10                 29
+                                              Nijmegen
+
+                                              RMO Noord-
+      4       3           Venray              Limburg /          9       10                 10                 29
+                                              Trendsportal
+
+                                              RMO Noord-
+                          Horst aan de
+      5       5                               Limburg /          9       10                 10                 29
+                          Maas
+                                              Trendsportal
+
+                                              RMO Zuid-
+      6       6           Eijsden-Margraten                      9       10                 10                 29
+                                              Limburg
+
+                                              Regio Groningen-
+      7       7           Het Hogeland                           8       10                 10                 28
+                                              Assen
+
+                                              Regio Arnhem-
+      8       8           Zevenaar                               8       10                 10                 28
+                                              Nijmegen
+
+                                              Regio Arnhem-
+      9       9           Overbetuwe                             9       10                 8,75               27,75
+                                              Nijmegen
+
+                                              RMO Zuid-
+      10      10          Maastricht                             9       8                  10                 27
+                                              Limburg
+
+                                              RMO Zuid-
+      11      11          Heerlen                                9       10                 7,50               26,50
+                                              Limburg
+
+                                              RMO Zuid-
+      12      12          Meerssen                               9       10                 7,50               26,50
+                                              Limburg
+
+                                              RMO Noord-
+      13      12          Peel en Maas        Limburg /          9       10                 7,50               26,50
+                                              Trendsportal
+
+                          Valkenburg aan      RMO Zuid-
+      14      12                                                 9       10                 7,50               26,50
+                          de Geul             Limburg
+
+                                              Regio Arnhem-
+      15      15          Wijchen                                9       10                 7,50               26,50
+                                              Nijmegen
+
+                                              RMO Zuid-
+      16      16          Landgraaf                              9       10                 7,50               26,50
+                                              Limburg
+
+                                              Regio Arnhem-
+      17      17          Montferland                            8       9                  8,75               25,75
+                                              Nijmegen
+
+                                              Regio Arnhem-
+      18      18          Druten                                 8       10                 7,50               25,50
+                                              Nijmegen
+
+                                              RMO Noord-
+                          Mook en
+      19      19                              Limburg /          8       10                 7,50               25,50
+                          Middelaar
+                                              Trendsportal
+
