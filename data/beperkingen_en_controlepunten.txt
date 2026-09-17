@@ -1,0 +1,26 @@
+GNMI onderzoek mobiliteit verkeer en infrastructuur 2026-2030
+Beperkingen en resterende controlepunten
+Versie: concept 1.0 definitief
+Datum: 17 september 2026
+
+Vaste bronbeperkingen
+1. Edam-Volendam - ontbreekt.
+2. Leidschendam-Voorburg - ontbreekt.
+3. Leiden - geen inhoudelijk akkoord gesloten.
+4. Voerendaal is meegenomen omdat de opdrachtgever heeft bevestigd dat het concept ongewijzigd is vastgesteld.
+5. Regio Achterhoek is voorlopig/niet vergelijkbaar. Binnen de vastgezette populatie ontbreekt een betrouwbare gemeentelijke onderlaag; daarom is geen cijfermatige regioscore berekend.
+6. Voor RMO Zuid-Limburg ontbreekt het oorspronkelijke Programmaplan met projectbladen. De aangeleverde raadsinformatiebrief is niet als primaire bron gebruikt.
+
+Methodische beperkingen
+- Akkoorden meten politieke agendering en voorgenomen inzet, niet uitvoering, budgetrealisatie of beleidseffecten.
+- De lengte en detaillering van akkoorden verschillen. De intensiteitsschaal beperkt dit documenteffect, maar verwijdert het niet volledig.
+- De populatiebrede H14-herlezing is een intra-codercontrole en geen onafhankelijke interbeoordelaarsmeting.
+- De GNMI-referentiematrix is bevroren op 15 augustus 2026. Latere beleidsontwikkelingen zijn alleen als context vermeld.
+- Ranglijsten zijn uitsluitend gebaseerd op de gepubliceerde 30-puntensystematiek en vormen geen algemeen kwaliteitsoordeel over gemeenten of regio's.
+
+Resterende controlepunten voor publicatie
+- Expliciete eindgoedkeuring van de opdrachtgever op concept 1.0 definitief.
+- Indien later beschikbaar: aanvullen van Edam-Volendam en Leidschendam-Voorburg, zonder historische uitkomsten stilzwijgend te overschrijven.
+- Indien een inhoudelijk akkoord voor Leiden alsnog wordt vastgesteld: als nieuwe versie opnemen met heldere peildatum en wijzigingslog.
+- Regio Achterhoek alleen cijfermatig toevoegen na vaststelling van een vergelijkbare en volledige gemeentelijke onderlaag.
+- Bij actualisering van de GNMI-agenda een nieuwe referentiematrixversie maken; de bevroren matrix in dit onderzoek niet achteraf wijzigen.
