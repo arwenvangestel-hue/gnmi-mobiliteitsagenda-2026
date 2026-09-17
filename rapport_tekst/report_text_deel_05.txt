@@ -1,0 +1,350 @@
+                                                                             en valideren.                         verschillende omvang.
+
+                                    Benchmark en leerbijeenkomsten           Portefeuille bespreken met            Bereik, gebruik en behoefte aan
+               6-12 maanden         uitvoeren; financiële opgave             ministerie, Rijkswaterstaat en        structurele ondersteuning
+                                    ordenen.                                 provincies.                           beoordelen.
+
+                                                                             Besluit over vaste                    Alleen structureel inbedden bij
+                                    Besluit over structureel leernetwerk
+               12-18 maanden                                                 actualisatiecyclus en                 aantoonbare deelname en
+                                    of beëindiging van de tijdelijke lijn.
+                                                                             interbestuurlijk overleg.             toegevoegde waarde.
+
+
+In beide sporen gelden toegankelijkheid, duurzaamheid, data, financiering en uitvoerbaarheid als vaste
+beoordelingspunten. De voorgestelde fasering voorkomt dat GNMI vooraf een permanente structuur optuigt
+zonder dat het gebruik door leden is bewezen.
+
+
+11.4 Wat uitdrukkelijk niet wordt voorgesteld
+      Geen nieuwe zelfstandige programmalijn voor ieder laagfrequent signaal uit de akkoorden.
+      Geen gemengde ranglijst waarin individuele gemeenten en gemiddelde regioscores als gelijksoortige
+       eenheden worden behandeld.
+      Geen cijfermatige score voor Regio Achterhoek zolang een betrouwbare en vergelijkbare gemeentelijke
+       onderlaag ontbreekt.
+
+
+                                                                                                                            17 september 2026 |      29
+                                                                             GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+      Geen vervanging van lokale of regionale besluitvorming door GNMI; de netwerkrol blijft kennis delen, partijen
+       verbinden en gezamenlijke positionering verkennen.
+
+
+
+12 Scores en rankings
+12.1 Scoringsmodel
+                      Score                              Bereik                                   Betekenis
+
+                                                                                 Algemene positionering: visie; breedte
+                                                                                 modaliteiten en doelgroepen;
+                     Score A             0-10
+                                                                                 infrastructuur en uitvoering; ruimtelijke
+                                                                                 integratie; concreetheid.
+
+                                                                                 Aansluiting op de vijf vastgezette GNMI-
+                     Score B             0-10
+                                                                                 prioriteitsclusters; per cluster 0, 1 of 2.
+
+                                                                                 Ontvlochten akkoorddimensies T04
+                                                                                 wegennet, T08 toegankelijkheid, T09
+                    Score C-alt          0-10
+                                                                                 logistiek en T10 civiele infrastructuur; elk
+                                                                                 0, 1,25 of 2,5.
+
+                                                                                 A + B + C-alt. Ranglijsten voor directe
+                      Totaal             0-30                                    gemeenten, regiogemeenten en regio’s
+                                                                                 blijven gescheiden.
+
+
+Score C-alt voorkomt dat dezelfde inhoud via de vijf bottom-up top-thema’s nogmaals vrijwel hetzelfde meet als
+Score B. De vier gekozen dimensies voegen wegennet, toegankelijkheid, logistiek en civiele infrastructuur als
+afzonderlijke informatie toe. Kwartpunten ontstaan door de factor 1,25.
+
+
+12.2 Populatiebeeld
+        Populatie                 n         Gemiddelde             Mediaan            Minimum                 Maximum
+
+    Directe gemeenten     44             25,41              25,5                 12,75                   30
+
+    Regiogemeenten        41             23,47              24                   10,50                   29
+
+    Alle geanalyseerde
+                          85             24,48              25,2                 10,50                   30
+        gemeenten
+
+
+
+
+                                                                                                      17 september 2026 |      30
+                                                                                GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+
+  Figuur 12.1 Aansluiting op de GNMI-clusters tegenover algemene mobiliteitsambitie. Noemer: 85 geanalyseerde gemeentelijke
+  akkoorden; A en B beide 0-10. GNMI-peildatum: 15 augustus 2026; raadpleegdatum: 27 augustus 2026. Bronbereik: 85 van 88
+            verwachte akkoorden. Ontbrekend/niet inhoudelijk: Edam-Volendam, Leidschendam-Voorburg en Leiden.
+De samenhang tussen A en B is positief: Pearson 0,607 en Spearman 0,430. Akkoorden met een brede
+algemene mobiliteitspositie sluiten dus vaak ook goed aan op de GNMI-clusters, maar de samenhang is niet zo
+sterk dat beide scores hetzelfde meten.
+
+
+12.3 Ranking rechtstreeks aangesloten gemeenten
+    Volgorde      Gedeelde rang           Gemeente           A                  B                 C-alt                Totaal
+
+       1         1                  Amsterdam         10                10                 10                  30
+
+       2         1                  Eindhoven         10                10                 10                  30
+
+       3         3                  Rotterdam         10                10                 10                  30
+
+       4         4                  Dordrecht         10                10                 10                  30
+
+       5         4                  Waalwijk          10                10                 10                  30
+
+       6         6                  Alkmaar           10                10                 10                  30
+
+       7         7                  Groningen         9                 10                 10                  29
+
+                                    Alphen aan den
+       8         8                                    9                 10                 10                  29
+                                    Rijn
+
+       9         9                  Coevorden         9                 10                 10                  29
+
+      10         10                 Venlo             9                 10                 10                  29
+
+      11         11                 Urk               10                9                  10                  29
+
+      12         12                 Middelburg        10                10                 8,75                28,75
+
+      13         13                 Zaanstad          10                10                 8,75                28,75
+
+
+
+                                                                                                          17 september 2026 |   31
+                                                                                                   GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+   Volgorde         Gedeelde rang            Gemeente                      A                   B                      C-alt                         Totaal
+
+        14          14                    Houten                8                      10                      10                         28
+
+        15          15                    Den Haag              9                      9                       10                         28
+
+
+
+
+12.4 Ranking gemeenten via een regio
+  Volgorde      Gedeelde rang        Gemeente                 Regio                A                    B                   C-alt                    Totaal
+
+                                                        RMO Zuid-
+     1         1                  Stein                                        9               10                   10                         29
+                                                        Limburg
+
+                                  Midden-               Regio
+     2         2                                                               9               10                   10                         29
+                                  Groningen             Groningen-Assen
+
+                                                        Regio Arnhem-
+     3         3                  Rheden                                       9               10                   10                         29
+                                                        Nijmegen
+
+                                                        RMO Noord-
+     4         3                  Venray                Limburg /              9               10                   10                         29
+                                                        Trendsportal
+
+                                                        RMO Noord-
+                                  Horst aan de
+     5         5                                        Limburg /              9               10                   10                         29
+                                  Maas
+                                                        Trendsportal
+
+                                  Eijsden-              RMO Zuid-
+     6         6                                                               9               10                   10                         29
+                                  Margraten             Limburg
+
+                                                        Regio
+     7         7                  Het Hogeland                                 8               10                   10                         28
+                                                        Groningen-Assen
+
+                                                        Regio Arnhem-
+     8         8                  Zevenaar                                     8               10                   10                         28
+                                                        Nijmegen
+
+                                                        Regio Arnhem-
+     9         9                  Overbetuwe                                   9               10                   8,75                       27,75
+                                                        Nijmegen
+
+                                                        RMO Zuid-
+     10        10                 Maastricht                                   9               8                    10                         27
+                                                        Limburg
+
+                                                        RMO Zuid-
+     11        11                 Heerlen                                      9               10                   7,50                       26,50
+                                                        Limburg
+
+                                                        RMO Zuid-
+     12        12                 Meerssen                                     9               10                   7,50                       26,50
+                                                        Limburg
+
+                                                        RMO Noord-
+     13        12                 Peel en Maas          Limburg /              9               10                   7,50                       26,50
+                                                        Trendsportal
+
+                                  Valkenburg aan        RMO Zuid-
+     14        12                                                              9               10                   7,50                       26,50
+                                  de Geul               Limburg
+
+                                                        Regio Arnhem-
+     15        15                 Wijchen                                      9               10                   7,50                       26,50
+                                                        Nijmegen
+
+
+
+
+12.5 Ranking aangesloten regio’s
+   Rang            Regio            n                Gem. A            Gem. B          Gem. C-alt       Gem. totaal             Mediaan              Min-max
+
+              Regio
+    1         Groningen-     3                   8                  9,33           7,50                24,83               28                    17,50-29
+              Assen
+
+              RMO Noord-
+    2         Limburg /      7                   8,57               9,29           6,43                24,29               25,5                  15,50-29
+              Trendsportal
+
+              RMO Zuid-
+    3                        16                  8,44               9,44           6,02                23,89               24                    11,25-29
+              Limburg
+
+
+
+                                                                                                                                  17 september 2026 |          32
+                                                                           GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+    Rang        Regio          n          Gem. A      Gem. B      Gem. C-alt    Gem. totaal        Mediaan       Min-max
+
+             Regio
+     4       Arnhem-      15           7,60         8,93         5,83           22,37         23               10,50-29
+             Nijmegen
+
+
+Regio Achterhoek is voorlopig/niet vergelijkbaar en heeft geen rang of score.
+
+
+12.6 Gelijke scores en tie-breakers
+Bij gelijke totaalscores bepaalt achtereenvolgens: hoogste A5 (concreetheid), hoogste Score B, meeste thema’s
+T01-T10 met intensiteit 3 en alfabetische volgorde. Gedeelde rang blijft zichtbaar wanneer alle inhoudelijke tie-
+breakers gelijk zijn. De volledige lijst van gelijke scores staat in bijlage E en in het controleblad van het
+onderzoeksbestand.
+
+
+
+13 Conclusie
+De gemeentelijke akkoorden geven GNMI een duidelijke opdracht: behoud de brede
+inhoudelijke lijn, maak haar concreter voor uitvoering en verbind mobiliteit steviger met ruimte,
+woningbouw, leefomgeving en infrastructuurbeheer. De huidige vijf clusters zijn geen
+toevallige weerspiegeling van enkele grote gemeenten; ze komen in vrijwel de hele
+onderzochte populatie en in alle vier vergelijkbare regionale onderlagen voor.
+De agenda kan tegelijk scherper. Parkeren verdient een zelfstandige positie. Taxi en verkeersjuridische zaken
+blijven waardevolle nichefuncties. Stadslogistiek en geluidsoverlast passen beter binnen bredere lijnen.
+Assetmanagement en de gezamenlijke aanpak van hoofdwegen en grote projecten zijn de twee meest
+onderbouwde uitbreidingen.
+De score- en rangbeelden ondersteunen vergelijking en kennisdeling, maar meten beleidsintentie in akkoorden.
+Ze geven geen oordeel over uitvoering, effectiviteit of bestuurlijke kwaliteit. De blijvende waarde van het
+onderzoek ligt daarom in de combinatie van telling, intensiteit, passagebewijs en een transparante rekenroute.
+
+
+13.1 Totale resultaten en vaste bronbeperkingen
+1. Edam-Volendam - ontbreekt
+2. Leidschendam-Voorburg - ontbreekt
+3. Leiden - geen inhoudelijk akkoord gesloten
+4. Voerendaal - meegenomen; de conceptversie is volgens de opdrachtgever ongewijzigd vastgesteld.
+5. Regio Achterhoek - voorlopig/niet vergelijkbaar; geen cijfermatige regioscore.
+
+
+
+14 Onderzoeksverantwoording
+14.1 Onderzoeksfasen
+1. Invoercontrole: bronnenregister, gemeentekoppeling, regionale configuratie, versies, tekstkwaliteit en
+    uitsluitingen.
+2. Vaststelling van de actuele GNMI-agenda op peildatum 15 augustus 2026, uitsluitend op basis van openbare
+    GNMI-bronnen; raadpleging op 27 augustus 2026.
+
+
+
+
+                                                                                                     17 september 2026 |   33
+                                                                          GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+3. Onafhankelijke ontwikkeling van de bottom-up codeboom uit een evenwichtige pilot van minimaal twintig
+    akkoorden.
+4. Volledige codering van eerst de regionale onderlaag en daarna de rechtstreeks aangesloten gemeenten.
+5. Populatiebrede H14-herlezing van alle 85 beschikbare akkoorden, gevolgd door herberekening van thema’s,
+    GNMI-spiegel, aanbevelingen en scores.
+6. Eindcontrole van brondekking, bewijsvelden, dubbeltelling, scoreformules, tabellen en visualisaties.
+
+
+14.2 Coderingsregels
+Een thema telt per akkoord maximaal één keer in de prevalentietelling. De intensiteit wordt vastgesteld op de
+hoogste aantoonbare beleidsintensiteit binnen dat akkoord: 0 afwezig; 1 ambitie of probleem; 2 concrete
+maatregel of opdracht; 3 programmatische aanpak met meerdere maatregelen, planning, budget, governance of
+een meetbaar doel. Prominentie en concreetheid zijn afzonderlijk geregistreerd. Algemene politieke taal zonder
+mobiliteitsinhoud is niet opgewaardeerd.
+
+
+14.3 H14-herlezing en controle
+                         Controlepunt                                              Uitkomst
+
+Gelezen PDF-pagina’s                                      2831
+
+OCR-pagina’s                                              73
+
+Bewijsregels                                              3672
+
+Akkoord-thema-combinaties                                 935 = 85 x 11
+
+Ongewijzigd t.o.v. voorlopige codering                    741
+
+Verhoogd na volledige herlezing                           192
+
+Verlaagd na volledige herlezing                           2
+
+Positieve score zonder bewijs                             0
+
+
+De herlezing is uitgevoerd met dezelfde vastgezette codeboom. De wijzigingen herstellen ontbrekende of te laag
+ingeschatte passages; definities zijn niet aangepast aan de uitkomst.
+
+
+14.4 Rekenkundige regels
+De bottom-up relevantiescore is: 40 punten voor prevalentie, 25 voor gemiddelde intensiteit, 15 voor gemiddelde
+prominentie, 10 voor de ongewogen gemiddelde aanwezigheid binnen de twaalf provincies en 10 voor het
+aandeel inwoners dat door aanwezige gemeenten wordt gedekt. T11 is uitgesloten als inhoudelijk kandidaat-
+thema.
+Regioscores zijn het rekenkundig gemiddelde van de afzonderlijke gemeentelijke A-, B-, C-alt- en totaalscores.
+Mediaan, minimum, maximum, bandbreedte en populatiestandaarddeviatie zijn aanvullend gerapporteerd. Er is
+geen maximum, optelsom of thematische vereniging als regioscore gebruikt.
+
+
+14.5 Rol van geautomatiseerde verwerking en menselijke controle
+Generatieve AI ondersteunde de volledige verwerkingsketen: tekstextractie en OCR, het vinden en ordenen van
+mobiliteitspassages, classificatie volgens de vastgestelde codeboom, scoreberekening en de opbouw van
+tabellen, grafieken en conceptteksten. Iedere stap gebruikte dezelfde vooraf vastgelegde definities en liet een
+controleerbaar spoor achter.
+Arwen van Gestel trad namens de opdrachtgever op als human in the loop. Hij stelde per fase de parameters
+vast, beoordeelde uitzonderingen en methodische keuzes, controleerde de tussenproducten en gaf pas daarna
+
+                                                                                                  17 september 2026 |   34
+                                                                           GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
