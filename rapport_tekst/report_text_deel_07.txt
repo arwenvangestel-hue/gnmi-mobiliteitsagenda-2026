@@ -1,0 +1,350 @@
+                                              RMO Zuid-
+      20      20          Gulpen-Wittem                          9       10                 5                  24
+                                              Limburg
+
+                                              Regio Arnhem-
+      21      21          Lingewaard                             9       10                 5                  24
+                                              Nijmegen
+
+                                              RMO Zuid-
+      22      22          Beekdaelen                             9       10                 5                  24
+                                              Limburg
+
+                                              RMO Zuid-
+      23      23          Brunssum                               9       10                 5                  24
+                                              Limburg
+
+
+
+
+                                                                                                       17 september 2026 |      39
+                                                                                                     GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+   Volgorde          Rang             Gemeente               Regio                    A                      B                    C-alt               Totaal
+
+                                                        RMO Zuid-
+     24         24                Sittard-Geleen                              8                  10                    5                      23
+                                                        Limburg
+
+                                                        RMO Zuid-
+     25         25                Kerkrade                                    8                  10                    5                      23
+                                                        Limburg
+
+                                                        Regio Arnhem-
+     26         26                Berg en Dal                                 8                  10                    5                      23
+                                                        Nijmegen
+
+                                                        RMO Noord-
+     27         27                Beesel                Limburg /             9                  9                     5                      23
+                                                        Trendsportal
+
+                                                        Regio Arnhem-
+     28         28                Heumen                                      9                  7                     6,25                   22,25
+                                                        Nijmegen
+
+                                                        Regio Arnhem-
+     29         29                Beuningen                                   7                  10                    5                      22
+                                                        Nijmegen
+
+                                                        RMO Noord-
+     30         30                Gennep                Limburg /             9                  10                    2,50                   21,50
+                                                        Trendsportal
+
+                                                        RMO Zuid-
+     31         30                Voerendaal                                  9                  10                    2,50                   21,50
+                                                        Limburg
+
+                                                        Regio Arnhem-
+     32         32                Duiven                                      9                  10                    2,50                   21,50
+                                                        Nijmegen
+
+                                                        RMO Zuid-
+     33         33                Vaals                                       8                  8                     5                      21
+                                                        Limburg
+
+                                                        RMO Zuid-
+     34         34                Simpelveld                                  7                  10                    2,50                   19,50
+                                                        Limburg
+
+                                                        Regio Arnhem-
+     35         34                Westervoort                                 7                  10                    2,50                   19,50
+                                                        Nijmegen
+
+                                                        Regio Groningen-
+     36         36                Westerkwartier                              7                  8                     2,50                   17,50
+                                                        Assen
+
+                                                        Regio Arnhem-
+     37         37                Doesburg                                    5                  8                     3,75                   16,75
+                                                        Nijmegen
+
+                                                        RMO Noord-
+     38         38                Bergen (L.)           Limburg /             7                  6                     2,50                   15,50
+                                                        Trendsportal
+
+                                                        Regio Arnhem-
+     39         39                Rozendaal                                   5                  6                     2,50                   13,50
+                                                        Nijmegen
+
+                                                        RMO Zuid-
+     40         40                Beek                                        5                  5                     1,25                   11,25
+                                                        Limburg
+
+                                                        Regio Arnhem-
+     41         41                Renkum                                      4                  4                     2,50                   10,50
+                                                        Nijmegen
+
+
+
+
+B3 Aangesloten regio’s
+   Rang           Regio           Status                n               Gem. totaal        Mediaan           Minimum              Maximum           Spreiding
+
+              RMO Noord-
+     2        Limburg /       Vergelijkbaar        7                24,29             25,5               15,50                29                13,50
+              Trendsportal
+
+              Regio Arnhem-
+     4                        Vergelijkbaar        15               22,37             23                 10,50                29                18,50
+              Nijmegen
+
+              Regio
+     1        Groningen-      Vergelijkbaar        3                24,83             28                 17,50                29                11,50
+              Assen
+
+              RMO Zuid-
+     3                        Vergelijkbaar        16               23,89             24                 11,25                29                17,75
+              Limburg
+
+              Regio           voorlopig/niet
+     -                                             0                -                 -                  -                    -                 -
+              Achterhoek      vergelijkbaar
+
+
+
+
+                                                                                                                                      17 september 2026 |       40
+                                                                                            GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+Bijlage C Openbare GNMI-bronnen en aanvullende context
+De onderstaande bronlog is de vooraf vastgezette basis voor de GNMI-referentiematrix. Publicaties na 15
+augustus 2026 hebben de matrix niet gewijzigd.
+        ID                    Kanaal            Paginatitel          Publicatie of activiteit        Geraadpleegd                  URL
+
+                                                                   Niet vermeld (doorlopende
+        S01        GNMI-website        Over het GNMI                                            2026-08-27             https://gnmi.nl/over/gnmi
+                                                                   pagina)
+
+                                                                   Niet vermeld (doorlopende
+        S02        Overzicht groepen   Over de netwerkgroepen                                   2026-08-27             https://gnmi.nl/over/groepen
+                                                                   pagina)
+
+                                                                   Niet vermeld (doorlopende
+        S03        Kalender            Kalender                                                 2026-08-27             https://gnmi.nl/kalender
+                                                                   pagina)
+
+                                                                   Niet vermeld (doorlopende
+        S04        Nieuws              Nieuws                                                   2026-08-27             https://gnmi.nl/nieuws
+                                                                   pagina)
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/156-
+        S05        Groepspagina        GNMI Mobiliteit                                          2026-08-27
+                                                                   pagina)                                             gnmi-mobiliteit
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/177-
+        S06        Groepspagina        GNMI Wetenschap                                          2026-08-27
+                                                                   pagina)                                             gnmi-wetenschap
+
+                                                                                                                       https://gnmi.nl/
+                                       GNMI Verkeersjuridische     Niet vermeld (doorlopende
+        S07        Groepspagina                                                                 2026-08-27             netwerkgroep/14-gnmi-
+                                       Zaken                       pagina)
+                                                                                                                       verkeersjuridische-zaken
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/159-
+        S08        Groepspagina        GNMI OV                                                  2026-08-27
+                                                                   pagina)                                             gnmi-ov
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/162-
+        S09        Groepspagina        GNMI Verkeersveiligheid                                  2026-08-27
+                                                                   pagina)                                             gnmi-verkeersveiligheid
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/165-
+        S10        Groepspagina        GNMI Taxi                                                2026-08-27
+                                                                   pagina)                                             gnmi-taxi
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/171-
+        S11        Groepspagina        GNMI Stadslogistiek                                      2026-08-27
+                                                                   pagina)                                             gnmi-stadslogistiek
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/168-
+        S12        Groepspagina        GNMI Parkeren                                            2026-08-27
+                                                                   pagina)                                             gnmi-parkeren
+
+                                                                                                                       https://gnmi.nl/content/174-
+                                                                   Niet vermeld (doorlopende
+        S13        Groepspagina        GNMI Geluidsoverlast                                     2026-08-27             gnmi-aanpak-
+                                                                   pagina)
+                                                                                                                       geluidsoverlast
+
+                                                                   Niet vermeld (doorlopende                           https://gnmi.nl/content/57-
+        S14        Bestuurspagina      Dagelijks Bestuur                                        2026-08-27
+                                                                   pagina)                                             dagelijks-bestuur
+
+                                       GNMI Algemene               Niet vermeld (doorlopende                           https://gnmi.nl/over/
+        S15        Bestuurspagina                                                               2026-08-27
+                                       Vergadering                 pagina)                                             algemene-vergadering
+
+                                                                                                                       https://gnmi.nl/kalender/
+        S16        Kalender            GNMI Mobiliteit             Niet vermeld                 2026-08-27             activiteit/1017-gnmi-
+                                                                                                                       mobiliteit
+
+                                                                                                                       https://gnmi.nl/kalender/
+                                       Minisymposium Van                                                               activiteit/1272-
+                                       mobiliteit naar eerlijke                                                        minisymposium-van-
+        S17        Kalender                                        Niet vermeld                 2026-08-27
+                                       bereikbaarheid - een                                                            mobiliteit-naar-eerlijke-
+                                       paradigmaverschuiving                                                           bereikbaarheid-een-
+                                                                                                                       paradigmaverschuiving
+
+                                                                                                                       https://gnmi.nl/kalender/
+                                       GNMI Verkeersveiligheid:                                                        activiteit/933-gnmi-
+        S18        Kalender                                        Niet vermeld                 2026-08-27
+                                       Workshop Human Factors                                                          verkeersveiligheid-
+                                                                                                                       workshop-human-factors
+
+                                                                                                                       https://gnmi.nl/kalender/
+                                       GNMI Mini-Seminar voor
+                                                                                                                       activiteit/1035-gnmi-mini-
+        S19        Kalender            wethouders | Veilige        Niet vermeld                 2026-08-27
+                                                                                                                       seminar-voor-wethouders-
+                                       Schoolomgeving
+                                                                                                                       veilige-schoolomgeving
+
+                                                                                                                       https://gnmi.nl/nieuws/786-
+                                       Veilige schoolomgevingen
+                                                                                                                       veilige-schoolomgevingen-
+        S20        Nieuws              beginnen met bestuurlijke   2026-06-30                   2026-08-27
+                                                                                                                       beginnen-met-bestuurlijke-
+                                       keuzes
+                                                                                                                       keuzes
+
+                                                                                                                       https://gnmi.nl/kalender/
+        S21        Kalender            GNMI Verkeersveiligheid     Niet vermeld                 2026-08-27             activiteit/930-gnmi-
+                                                                                                                       verkeersveiligheid
+
+                                                                                                                       https://gnmi.nl/kalender/
+        S22        Kalender            GNMI Taxi                   Niet vermeld                 2026-08-27
+                                                                                                                       activiteit/990-gnmi-taxi
+
+                                                                                                                       https://gnmi.nl/kalender/
+        S23        Kalender            GNMI Stadslogistiek         Niet vermeld                 2026-08-27             activiteit/957-gnmi-
+                                                                                                                       stadslogistiek
+
+
+
+
+                                                                                                                    17 september 2026 |            41
+                                                                                                    GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+        ID                     Kanaal           Paginatitel              Publicatie of activiteit            Geraadpleegd                  URL
+
+                                                                                                                               https://gnmi.nl/kalender/
+                                        GNMI Parkeren | SHPV                                                                   activiteit/1170-gnmi-
+        S24         Kalender                                           Niet vermeld                     2026-08-27
+                                        Themabijeenkomst                                                                       parkeren-shpv-
+                                                                                                                               themabijeenkomst
+
+                                                                                                                               https://gnmi.nl/nieuws/753-
+                                        CROW start reeks ‘Aan de
+                                                                                                                               crow-start-reeks-aan-de-
+        S25         Nieuws              slag met de Leidraad           2026-03-03                       2026-08-27
+                                                                                                                               slag-met-de-leidraad-
+                                        Toegankelijkheid’
+                                                                                                                               toegankelijkheid
+
+                                                                                                                               https://gnmi.nl/nieuws/767-
+                                        Basistraining AI-
+                                                                                                                               basistraining-ai-
+                                        Geletterdheid voor
+        S26         Nieuws                                             2026-04-20                       2026-08-27             geletterdheid-voor-
+                                        beleidsmedewerkers
+                                                                                                                               beleidsmedewerkers-
+                                        mobiliteit
+                                                                                                                               mobiliteit
+
+        S27         Nieuwsbrief         Nieuwsbrief december 2025      2025-12-04                       2026-08-27             https://gnmi.nl/nieuws/743
+
+                                                                                                                               https://gnmi.nl/nieuws/794-
+                                        Twijfel over een
+                                                                                                                               twijfel-over-een-
+        S28         Nieuws              verkeersbesluit? Het           2026-07-29                       2026-08-27
+                                                                                                                               verkeersbesluit-het-
+                                        Juridisch Loket denkt mee
+                                                                                                                               juridisch-loket-denkt-mee
+
+                                                                                                                               https://gnmi.nl/nieuws/752-
+                                        Geluidsdisplay tegen
+                                                                                                                               geluidsdisplay-tegen-
+        S29         Nieuws              verkeerslawaai in              2026-02-27                       2026-08-27
+                                                                                                                               verkeerslawaai-in-
+                                        Amersfoort
+                                                                                                                               amersfoort
+
+                                                                                                                               https://gnmi.nl/nieuws/773-
+                                        Amersfoort koploper in
+        S30         Nieuws                                             2026-05-12                       2026-08-27             amersfoort-koploper-in-
+                                        aanpak verkeerslawaai
+                                                                                                                               aanpak-verkeerslawaai
+
+                                                                                                                               https://gnmi.nl/kalender/
+                                        Workshop deelmobiliteit in
+                                                                                                                               activiteit/1267-workshop-
+        S31         Kalender            kleine en middelgrote          Niet vermeld                     2026-08-27
+                                                                                                                               deelmobiliteit-in-kleine-en-
+                                        gemeenten
+                                                                                                                               middelgrote-gemeenten
+
+                                                                                                                               https://nl.linkedin.com/
+                                        Gemeentelijk Netwerk voor
+                                                                       Relatieve datering op                                   company/gemeentelijk-
+        S32         LinkedIn            Mobiliteit en Infrastructuur                                    2026-08-27
+                                                                       openbare pagina                                         netwerk-voor-mobiliteit-en-
+                                        (GNMI)
+                                                                                                                               infrastructuur
+
+                                                                       Niet zichtbaar in openbare                              https://www.youtube.com/
+        S33         YouTube             GNMI introductievideo                                           2026-08-27
+                                                                       zoekmetadata                                            watch?v=AukU8eBcOoY
+
+                                                                                                                               https://gnmi.nl/nieuws/796-
+                                        Nieuwsbrief augustus 2026
+        S34         Nieuwsbrief                                        2026-08-19                       2026-08-27             nieuwsbrief-augustus-2026-
+                                        | Veilige schoolomgevingen
+                                                                                                                               veilige-schoolomgevingen
+
+                                                                                                                               https://gnmi.nl/kalender/
+                                        GNMI OV: Utrecht (nieuwe       Niet vermeld; pagina later
+        S35         Kalender                                                                            2026-08-27             activiteit/1128-gnmi-ov-
+                                        datum)                         gewijzigd
+                                                                                                                               utrecht-nieuwe-datum
+
+                                                                                                                               https://gnmi.nl/kalender/
+                                        GNMI Algemene
+        S36         Kalender                                           Niet vermeld                     2026-08-27             activiteit/1038-gnmi-
+                                        Vergadering
+                                                                                                                               algemene-vergadering
+
+                                                                                                                               https://gnmi.nl/kalender/
+                                        Masterclass City Logistics                                                             activiteit/1263-masterclass-
+        S37         Kalender                                           Niet vermeld                     2026-08-27
+                                        10 en 11 juni 2026                                                                     city-logistics-10-en-11-
+                                                                                                                               juni-2026
+
+                                                                                                                               https://gnmi.nl/nieuws/747-
