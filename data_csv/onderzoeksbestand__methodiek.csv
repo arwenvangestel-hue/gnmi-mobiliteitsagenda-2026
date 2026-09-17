@@ -1,0 +1,18 @@
+﻿,,
+Onderzoeksverantwoording,,
+Bindend GNMI-onderzoeks- en analysescript; alle goedgekeurde beslispunten verwerkt.,,
+,,
+Onderdeel,Regel,Toepassing
+Fasen,1 GNMI-agenda; 2 bottom-up codeboom; 3 regionale onderlaag; 4 directe gemeenten; 5 samenvoeging/top vijf/spiegel; 6 nieuwe thema’s; 7 aanbevelingen/scores/rapport; H14 populatiebrede herlezing.,Alle fasen zijn in de publicatiebasis traceerbaar.
+Bronnen,Uitsluitend oorspronkelijke gemeentelijke college- en coalitieakkoorden voor tellingen.,Regionale stukken en eerdere samenvattingen zijn niet als primair bewijs gebruikt.
+Noemer,N=85 voor inhoudelijke percentages; 85/88 voor brondekking.,Geen inhoudelijk percentage met 88 als noemer.
+Intensiteit,0 afwezig; 1 ambitie/probleem; 2 concrete maatregel/opdracht; 3 programmatische aanpak.,Per thema en akkoord één eindscore.
+Prominentie,0 afwezig; 1 incidenteel; 2 herkenbaar onderdeel; 3 dragend of structureel gepositioneerd.,Vast gebruikt in de relevantieformule.
+Top vijf,40% prevalentie; 25% intensiteit; 15% prominentie; 10% provinciale spreiding; 10% inwonergewogen relevantie.,T11 uitgesloten als uitvoeringsdimensie.
+Score A,A1 visie; A2 breedte; A3 infrastructuur/uitvoering; A4 ruimtelijke integratie; A5 concreetheid.,Maximaal 10.
+Score B,"Vijf vastgezette GNMI-clusters, elk 0–2.",Maximaal 10; W- en D-thema’s niet extra gewogen.
+Score C-alt,"1,25 × ingeklapte T04, T08, T09 en T10.",Maximaal 10; ontvlochten van de vijf B-clusters.
+Tie-breakers,Totaal; daarna A5; daarna Score B; daarna aantal T01–T10 op intensiteit 3; daarna alfabetisch.,Gelijke totaalscores blijven zichtbaar.
+Regio’s,Alle statistiek uit afzonderlijke gemeentelijke scores; nooit een unie- of hoogste score.,Achterhoek krijgt geen cijfer.
+AI en mens,"AI ondersteunde extractie, deduplicatie en reproduceerbare berekeningen. Methodiek, afbakeningen, anomalieën en besluiten zijn door de opdrachtgever in een human-in-the-loop-proces beoordeeld.",AI en opdrachtgever zijn geen inhoudelijke bron.
+BO-MIRT-controle,Actuele primaire rijksbronnen zijn alleen gebruikt om de aanbeveling over hoofdnetten en projectportefeuilles te contextualiseren.,Deze controle verandert de vastgezette GNMI-matrix niet.
