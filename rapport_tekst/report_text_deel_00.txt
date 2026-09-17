@@ -1,0 +1,350 @@
+CONCEPT 1.0 DEFINITIEF VOOR EINDCONTROLE
+
+
+
+Gemeentelijke mobiliteitsagenda's
+en de actuele GNMI-lijn
+Analyse van 85 college- en coalitieakkoorden 2026-2030
+
+Mobiliteit, verkeer en infrastructuur als basis voor de GNMI-agenda
+
+
+
+
+    85 / 88                           44 + 41                                 3.672                              2.831
+ akkoorden geanalyseerd            rechtstreeks en via regio            controleerbare passages             onderzochte PDF-pagina’s
+
+
+
+
+                                      Peildatum actuele GNMI-agenda: 15 augustus 2026
+                                 Openbare GNMI-bronnen geraadpleegd op 27 augustus 2026
+                                                Versiedatum: 17 september 2026
+                      De cijfers zijn vastgesteld. Deze rapportversie ligt voor ter redactionele eindcontrole.
+Voorwoord
+GNMI heeft dit onderzoek laten uitvoeren om zijn bestuur en aangesloten gemeenten een
+helder vertrekpunt te geven voor de koers in de bestuursperiode 2026-2030. De centrale vraag
+is eenvoudig: sluiten de onderwerpen waaraan GNMI werkt aan op wat gemeenten zelf in hun
+nieuwe college- en coalitieakkoorden belangrijk maken?
+Het antwoord op die vraag vraagt meer dan het tellen van enkele zoekwoorden. Gemeenten gebruiken
+verschillende begrippen, leggen andere accenten en werken hun plannen niet allemaal even ver uit. Daarom zijn
+de oorspronkelijke akkoorden systematisch gelezen. Alle passages over mobiliteit, verkeer en infrastructuur zijn
+vastgelegd, gekoppeld aan een thema en voorzien van de exacte bestandsnaam en PDF-pagina.
+Het rapport bouwt de redenering stap voor stap op. Eerst worden bronnen, begrippen en onderzoeksgroepen
+uitgelegd. Daarna volgen de feitelijke resultaten voor rechtstreeks aangesloten gemeenten en voor gemeenten
+die via een regio deelnemen. Pas wanneer dat beeld compleet is, worden de uitkomsten naast de actuele GNMI-
+agenda gelegd en volgen conclusies en aanbevelingen.
+De uitkomsten zijn bedoeld om het bestuurlijke gesprek te voeden. Een score is een onderzoeksindex voor wat in
+een akkoord staat. Zij is geen rapportcijfer voor een gemeente en zegt niet of beleid al is uitgevoerd of succesvol
+is. De volledige bewijsbasis en alle berekeningen zijn afzonderlijk beschikbaar, zodat iedere uitkomst kan worden
+gecontroleerd.
+
+
+
+Doel en opzet van het onderzoek
+Voor wie en waarvoor
+De primaire lezers zijn het bestuur, de leden en de inhoudelijke groepen van GNMI. Het rapport helpt hen om drie
+vragen te beantwoorden: welke onderwerpen leven breed bij gemeenten, hoe sluit de bestaande GNMI-agenda
+daarop aan en welke onderwerpen verdienen later in het rapport een bestuurlijke keuze? De formele
+onderzoeksvragen en de positie van GNMI staan in hoofdstuk 2.
+
+
+Onderzoekstechniek
+De PDF-bestanden zijn per pagina verwerkt. Waar een bruikbare tekstlaag ontbrak, is gecontroleerde
+tekenherkenning toegepast. Iedere relevante passage kreeg een bewijs-ID met gemeente, regio, exacte
+bestandsnaam, PDF-pagina en inhoudelijke codering. De tellingen, tabellen en grafieken zijn vervolgens vanuit
+diezelfde gegevensbasis opgebouwd. Daardoor kan de lezer van een conclusie terug naar een cijfer en van dat
+cijfer terug naar de oorspronkelijke passage.
+
+
+Onderzoeksmethodiek
+Het onderzoek is in opeenvolgende, afzonderlijk gecontroleerde fasen uitgevoerd. Eerst is vastgesteld welke 88
+gemeentelijke akkoorden werden verwacht en welke documenten als oorspronkelijke bron mochten meetellen.
+Daarna is de actuele GNMI-agenda op een vaste peildatum beschreven. Los daarvan is uit een evenwichtige pilot
+van gemeentelijke akkoorden een codeboom opgebouwd. Pas daarna zijn alle beschikbare akkoorden
+gecodeerd, zijn gemeenten en regio’s vergeleken en zijn scores en grafieken berekend.
+   Eén thema telt per akkoord maximaal één keer mee in de telling van het aantal akkoorden.
+   De mate van uitwerking loopt van 0 tot 3: afwezig, ambitie of probleem, concrete maatregel, of
+    programmatische aanpak.
+   Rechtstreeks aangesloten gemeenten, regiogemeenten en regionale gemiddelden blijven afzonderlijke
+    analysegroepen.
+                                                                             GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+   Een positieve score is alleen toegestaan wanneer een controleerbare passage met bestandsnaam en PDF-
+    pagina beschikbaar is.
+   Aanbevelingen volgen pas nadat de gemeentelijke resultaten en de vergelijking met de GNMI-agenda zijn
+    beschreven.
+
+
+AI verantwoording en menselijke controle
+Bij de verwerking is generatieve AI gebruikt als onderzoeksinstrument. De AI heeft documenten doorzocht,
+relevante passages geselecteerd en geordend, passages volgens de vastgestelde codeboom geclassificeerd,
+scores berekend en de gegevens vertaald naar tabellen en grafieken. Daarmee kon een omvangrijke
+bronpopulatie consequent en herleidbaar worden verwerkt.
+Arwen van Gestel trad namens de opdrachtgever op als human in the loop. Hij bepaalde per fase de
+onderzoeksvraag, bronregels, definities, uitzonderingen en beslismomenten en controleerde de tussenresultaten
+voordat de volgende stap begon. Na de eerste analyse zijn alle 85 beschikbare akkoorden opnieuw volledig
+beoordeeld en zijn tellingen, citaten, paginanummers en berekeningen technisch gecontroleerd.
+AI en de opdrachtgever gelden niet als inhoudelijke bron. Feiten in dit rapport zijn uitsluitend gebaseerd op
+oorspronkelijke gemeentelijke akkoorden, openbare GNMI-publicaties en expliciet benoemde officiële regionale
+documenten. Automatisering verkleint handwerk, maar sluit interpretatiefouten niet uit. Daarom blijft iedere
+positieve themascore gekoppeld aan controleerbaar passagebewijs en worden onzekerheden expliciet genoemd.
+
+
+
+Leeswijzer
+Hoofdstuk 1 vat de belangrijkste onderzoeksuitkomsten technisch samen, zonder vooruit te lopen op de latere
+adviezen. Hoofdstukken 2 en 3 beschrijven de onderzoeksvraag, GNMI en de onderzochte bronnen.
+Hoofdstukken 4 tot en met 6 geven eerst het feitelijke beeld van rechtstreeks aangesloten gemeenten,
+regiogemeenten en GNMI-entiteiten.
+Hoofdstukken 7 tot en met 9 ordenen de thema’s uit de akkoorden en spiegelen die aan de vastgezette GNMI-
+agenda. De bestuurlijke adviezen volgen daarna in hoofdstukken 10 en 11. Hoofdstuk 12 toont de scores en
+afzonderlijke ranglijsten, hoofdstuk 13 trekt de conclusie en hoofdstuk 14 verantwoordt de methode. De bijlagen
+bevatten de codeboom, volledige ranglijsten, openbare bronnen, bewijsselecties en controles.
+Inhoudelijke percentages gebruiken 85 geanalyseerde akkoorden als noemer. De vermelding 85 van 88 gaat
+alleen over brondekking. Edam-Volendam en Leidschendam-Voorburg ontbreken; Leiden heeft geen inhoudelijk
+akkoord gesloten.
+
+
+
+Inhoudsopgave
+                 Nr                                  Hoofdstuk                                     Pagina
+
+                  1                   Technische managementsamenvatting                               5
+
+
+                  2                   Introductie                                                     6
+
+
+                  3                   Onderzoekspopulatie en afbakening                               7
+
+                                      Totaalbeeld rechtstreeks aangesloten                            8
+                  4
+                                      gemeenten
+
+                  5                   Totaalbeeld aangesloten regio’s                                 9
+
+                                      Gecombineerd beeld van de GNMI-                                14
+                  6
+                                      entiteiten
+
+
+
+                                                                                                      17 september 2026 |   3
+                                                                                        GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+                     Nr                                       Hoofdstuk                                       Pagina
+
+                                              De vijf belangrijkste thema’s uit de                              15
+                      7
+                                              akkoorden
+
+                      8                       Analyse van de huidige GNMI-thema’s                               19
+
+                                              Nieuwe of onderbelichte gemeentelijke                             20
+                      9
+                                              thema’s
+
+                     10                       Aanbeveling A huidige GNMI-agenda                                 22
+
+                                              Aanbeveling B mogelijke nieuwe GNMI-                              28
+                     11
+                                              onderwerpen
+
+                     12                       Scores en rankings                                                30
+
+
+                     13                       Conclusie                                                         33
+
+
+                     14                       Onderzoeksverantwoording                                          33
+
+
+                     15                       Bijlagen                                                          35
+
+
+De bijbehorende Excelbestanden bevatten de volledige bronpopulatie, alle 3.672 bewijsregels, 935 akkoord-thema-combinaties,
+scoreformules, ranglijsten, uitsluitingen en bronlogboeken.
+
+
+
+
+                                                                                                                  17 september 2026 |   4
+                                                                                         GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+
+1 Technische managementsamenvatting
+Dit hoofdstuk vat de belangrijkste cijfers samen. Ze laten zien hoe vaak en hoe concreet
+onderwerpen in de akkoorden zijn uitgewerkt; ze vormen geen advies. De bestuurlijke
+afweging volgt pas na de resultaten en duiding in hoofdstukken 4 tot en met 9.
+               Kernindicator                                  Uitkomst                                          Betekenis
+
+                                                                                             De inhoudelijke basis is breed, maar drie
+                                          85 van 88 akkoorden geanalyseerd; 44
+                 Bronbereik                                                                  verwachte gemeenten leveren geen telbare
+                                          rechtstreeks en 41 via een regio.
+                                                                                             inhoudelijke bron.
+
+                                          3.672 controleerbare passages uit 2.831 PDF-       Iedere positieve themascore is terug te voeren
+                   Bewijs
+                                          pagina’s; 73 pagina’s via gecontroleerde OCR.      op een passage, bestand en PDF-pagina.
+
+                                          Ruimte en woningbouw; verkeersveiligheid;          Dit is het gemeentelijke beeld dat onafhankelijk
+      Vijf belangrijkste akkoordthema’s   lopen en fietsen; openbaar vervoer; wegennet       van de GNMI-agenda uit de akkoorden is
+                                          en ontsluiting.                                    opgebouwd.
+
+                                          Elk van de vijf vastgezette GNMI-                  De bestaande agenda heeft een brede
+            Aansluiting op GNMI           prioriteitsclusters komt in 80 tot 84 van 85       gemeentelijke basis; verschillen zitten vooral in
+                                          akkoorden voor.                                    uitwerking en accent.
+
+                                                                                             Beide onderwerpen voldoen aan de vooraf
+                                          Civiele assets komen in 57 akkoorden voor;
+           Aanvullende signalen                                                              vastgestelde selectieregel; de bestuurlijke
+                                          hoofdwegen en grote wegprojecten in 45.
+                                                                                             gevolgtrekking staat later in het rapport.
+
+                                                                                             De score meet beleidspositionering in
+                                          Rechtstreeks gemiddeld 25,41 van 30;
+                   Scores                                                                    akkoorden en is geen oordeel over uitvoering of
+                                          regiogemeenten 23,47; alle gemeenten 24,48.
+                                                                                             kwaliteit.
+
+                                          Vier regio’s zijn cijfermatig vergelijkbaar;       Een regioscore is altijd het gemiddelde van de
+                  Regio’s
+                                          Achterhoek is voorlopig/niet vergelijkbaar.        onderliggende gemeentelijke scores.
+
+
+
+
+1.1 Hoofdbevindingen
+   Integratie van mobiliteit met ruimte, woningbouw en leefomgeving is het sterkste vanuit de akkoorden
+    opgebouwde thema: 83 van 85 akkoorden (97,6%).
+   Verkeersveiligheid staat in 81 van 85 akkoorden (95,3%) en heeft bovendien de hoogste combinatie van
+    concrete en programmatische uitwerking na het ruimtelijke thema.
+   De vijf GNMI-prioriteitsclusters sluiten elk aan op ten minste 80 van 85 akkoorden. De basis van de agenda is
+    dus robuust en breed gedragen.
+   Parkeren is het breedst voorkomende specifieke werkterrein (68 van 85). Taxi en verkeersjuridische zaken
+    zijn laagfrequent en hebben een specifieke expert- of wettelijke context.
+   Beheer en vervanging van civiele mobiliteitsassets staat in 57 akkoorden; hoofdwegen en grote wegprojecten
+    in 45. Beide passeren de vooraf vastgestelde selectiedrempel.
+Deze bevindingen worden in de volgende hoofdstukken eerst uitgesplitst naar gemeente, regio en thema.
+Hoofdstukken 10 en 11 zetten die onderbouwde lijn vervolgens om in adviezen. Zo blijft zichtbaar waar de feiten
+eindigen en de bestuurlijke keuze begint.
+
+
+1.2 Vaste bronbeperkingen
+1. Edam-Volendam - ontbreekt
+2. Leidschendam-Voorburg - ontbreekt
+3. Leiden - geen inhoudelijk akkoord gesloten
+Voerendaal is meegenomen omdat de conceptversie volgens de opdrachtgever ongewijzigd is vastgesteld.
+Regio Achterhoek is voorlopig/niet vergelijkbaar; er is geen cijfermatige regioscore geconstrueerd.
+
+
+
+                                                                                                                     17 september 2026 |         5
+                                                                                            GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+
+2 Introductie
+Dit hoofdstuk plaatst de onderzoeksopdracht in de context van GNMI. Eerst wordt de formele
+onderzoeksvraag afgebakend. Daarna volgt de openbare positie van GNMI en de
+referentiematrix waartegen de gemeentelijke uitkomsten later worden gespiegeld. De matrix is
+vóór de analyse van alle akkoorden vastgesteld en daarna niet aangepast aan de uitkomst.
+
+2.1 Doel van het onderzoek
+Het onderzoek beantwoordt drie vragen. Welke mobiliteits- en infrastructuurthema’s zetten gemeenten zelf op de
+agenda? Hoe verhouden die thema’s zich tot de actuele, vooraf vastgezette GNMI-agenda? En welke collectieve
+onderwerpen vragen om behoud, intensivering, verbreding of een nieuw programmaspoor?
+De GNMI-referentiematrix is in fase 1 vastgesteld op de peildatum 15 augustus 2026 en daarna bevroren. De
+bottom-up codeboom is vervolgens onafhankelijk ontwikkeld op basis van een evenwichtige pilot van
+gemeentelijke akkoorden. Hierdoor is het gemeentelijke beeld niet achteraf passend gemaakt bij de GNMI-
+structuur.
+
+
+2.2 Positie en openbare structuur van GNMI
+GNMI presenteert zich als gemeentelijk netwerk voor kennisuitwisseling, beleidsafstemming en samenwerking
+rond mobiliteit en infrastructuur. De openbare structuur omvat GNMI Mobiliteit, GNMI Wetenschap, GNMI
+Verkeersjuridische Zaken, GNMI OV, GNMI Verkeersveiligheid, GNMI Taxi, GNMI Stadslogistiek, GNMI Parkeren
+en GNMI Aanpak Geluidsoverlast. Het Dagelijks Bestuur en de Algemene Vergadering dragen de bestuurlijke en
+organisatorische lijn. De volledige bronlog met URL, paginatitel, publicatie- of activiteitsdatum en raadpleegdatum
+staat in bijlage C en in het onderzoeksbestand.
+
+
+2.3 De vijf vastgezette GNMI-prioriteitsclusters
+          ID                      Cluster                       Definitie                        Status                    Gewicht
+
+                                                       Gemeentelijke inzet op het
+                                                       voorkomen van slachtoffers
+                        Verkeersveiligheid, veilige    via veilige inrichting,
+          C1                                                                          actueel prioritair          20%
+                        inrichting en handhaving       risicogestuurd beleid,
+                                                       gedrag en geloofwaardige
+                                                       naleving.
+
+                                                       Bereikbaarheid van
+                                                       bestemmingen voor alle
+                        Multimodale
+                                                       groepen, via samenhang
+          C2            bereikbaarheid, OV en                                         actueel prioritair          20%
+                                                       tussen OV, lopen, fietsen,
+                        toegankelijkheid
+                                                       auto, hubs en
+                                                       doelgroepenvervoer.
+
+                                                       Transitie naar schonere en
+                        Duurzame, actieve en           ruimte-efficiënte mobiliteit
+          C3            gedeelde mobiliteit en zero-   door lopen, fietsen, delen,    actueel prioritair          20%
+                        emissie                        elektrificatie en zero-
+                                                       emissie vervoer/logistiek.
+
+                                                       Integrale afweging van
+                                                       mobiliteit met woningbouw,
+                        Mobiliteit, woningbouw,
+                                                       openbare ruimte,
+          C4            ruimte, parkeren en                                           actueel prioritair          20%
+                                                       parkeerbeleid,
+                        leefbaarheid
+                                                       economische functies en
+                                                       een gezonde leefomgeving.
+
+                        Mobiliteitsdata,               Versterking van
+                        digitalisering, AI,            gemeentelijke kennis,
+          C5            kennisontwikkeling en          datagebruik en                 actueel prioritair          20%
+                        toekomstbestendige             uitvoeringsvermogen,
+                        uitvoering                     inclusief verantwoord AI-
+
+
+
+                                                                                                                     17 september 2026 |   6
+                                                                                       GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+              ID                      Cluster                  Definitie                   Status                     Gewicht
+
+                                                       gebruik en verbinding
+                                                       tussen wetenschap en
+                                                       praktijk.
+
+
+Taxi, stadslogistiek, parkeren, verkeersjuridische zaken en geluidsoverlast blijven daarnaast afzonderlijk
+zichtbaar. Toegankelijkheid, data, ruimte, gedrag, duurzaamheid en governance zijn dwarsdoorsnijdend
+vastgelegd en tellen niet dubbel mee in Score B.
+
+
+2.4 Bestuurlijke context na de peildatum
+Na de bevroren GNMI-peildatum verscheen het MIRT Overzicht 2027. Dit bevestigt als actuele context het belang
+van samenwerking tussen Rijk en regio, afspraken in het Bestuurlijk Overleg MIRT en de prioriteit voor
+instandhouding van netwerken. Deze publicatie is niet gebruikt om de vastgezette GNMI-matrix achteraf te
+wijzigen. De officiële verwijzingen staan in bijlage C.
+
+
+
