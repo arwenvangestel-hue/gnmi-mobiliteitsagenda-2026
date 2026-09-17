@@ -1,0 +1,90 @@
+﻿,,,,,,,,,,,,,,,,,,,,,,,,,
+Gemeentelijke GNMI-indicatoren,,,,,,,,,,,,,,,,,,,,,,,,,
+Een gemeente telt per GNMI-thema maximaal één keer. W- en D-thema’s leveren geen extra scoregewicht op.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Gemeente,Route,Regio,Provincie,Bron-ID,Bestand,A,B,C-alt,Totaal,C1,C2,C3,C4,C5,W1,W2,W3,W4,W5,D1,D2,D3,D4,D5,D6
+Aa en Hunze,Rechtstreeks,Rechtstreeks,Drenthe,SRC-001,Aa en Hunze.pdf,7,9,6.25,22.25,2,3,2,1,3,0,0,0,0,0,1,0,1,0,2,3
+Alkmaar,Rechtstreeks,Rechtstreeks,Noord-Holland,SRC-002,Alkmaar.pdf,10,10,10,30,3,3,3,3,3,0,2,3,2,2,3,2,3,2,3,3
+Almelo,Rechtstreeks,Rechtstreeks,Overijssel,SRC-003,Almelo.pdf,8,9,2.5,19.5,1,3,3,2,3,0,0,2,0,0,0,0,2,0,3,3
+Almere,Rechtstreeks,Rechtstreeks,Flevoland,SRC-004,Almere 2026.pdf,7,9,7.5,23.5,2,3,2,2,1,0,2,2,0,0,2,0,2,0,2,1
+Alphen aan den Rijn,Rechtstreeks,Rechtstreeks,Zuid-Holland,SRC-005,Alphen.pdf,9,10,10,29,3,3,3,3,3,0,1,3,0,0,2,0,3,0,3,3
+Altena,Rechtstreeks,Rechtstreeks,Noord-Brabant,SRC-006,Altena.pdf,8,9,3.75,20.75,2,3,2,1,3,0,0,0,0,0,3,0,1,0,2,3
+Amersfoort,Rechtstreeks,Rechtstreeks,Utrecht,SRC-007,Amesfoort.pdf,9,10,5,24,2,3,2,3,3,0,0,3,0,0,2,3,3,2,2,3
+Amsterdam,Rechtstreeks,Rechtstreeks,Noord-Holland,SRC-008,Amsterdam.pdf,10,10,10,30,3,3,3,3,3,2,2,3,0,0,3,3,3,0,3,3
+Apeldoorn,Rechtstreeks,Rechtstreeks,Gelderland,SRC-009,Apeldoorn.pdf,10,10,7.5,27.5,3,3,3,3,2,0,0,2,0,0,2,1,3,0,3,2
+Arnhem,Rechtstreeks,Rechtstreeks,Gelderland,SRC-010,Arnhem.pdf,8,10,6.25,24.25,2,3,2,3,2,0,1,3,0,0,1,0,2,2,2,2
+Barneveld,Rechtstreeks,Rechtstreeks,Gelderland,SRC-011,Barneveld.pdf,6,9,2.5,17.5,2,3,1,2,2,0,0,2,0,0,0,0,2,1,1,2
+Beek,Via regio,RMO Zuid-Limburg,Limburg,SRC-012,Beek.pdf,5,5,1.25,11.25,1,1,0,2,2,0,0,0,0,0,1,0,2,0,0,2
+Beekdaelen,Via regio,RMO Zuid-Limburg,Limburg,SRC-013,Beekdaelen.pdf,9,10,5,24,3,3,3,3,3,0,0,0,0,0,2,1,3,0,3,3
+Beesel,Via regio,RMO Noord-Limburg / Trendsportal,Limburg,SRC-014,Beesel.pdf,9,9,5,23,3,2,2,3,3,0,0,0,0,0,0,0,3,0,2,3
+Berg en Dal,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-015,Berg en Dal.pdf,8,10,5,23,3,3,2,2,3,0,0,2,0,0,0,0,2,0,2,3
+Bergen (L.),Via regio,RMO Noord-Limburg / Trendsportal,Limburg,SRC-016,Bergen.pdf,7,6,2.5,15.5,3,0,0,2,3,0,0,0,0,0,0,0,2,0,0,3
+Beuningen,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-017,Beuningen.pdf,7,10,5,22,3,3,2,2,2,0,0,2,0,0,0,0,2,0,2,2
+Beverwijk,Rechtstreeks,Rechtstreeks,Noord-Holland,SRC-018,Beverwijk.pdf,7,10,10,27,2,3,3,2,3,0,0,2,0,0,2,0,2,1,3,3
+Breda,Rechtstreeks,Rechtstreeks,Noord-Brabant,SRC-019,Breda.pdf,10,10,5,25,3,3,3,3,3,0,0,3,0,0,0,0,3,0,3,3
+Brunssum,Via regio,RMO Zuid-Limburg,Limburg,SRC-020,Brunssum.pdf,9,10,5,24,3,3,2,3,3,0,0,3,0,0,2,3,3,0,2,3
+Coevorden,Rechtstreeks,Rechtstreeks,Drenthe,SRC-021,Coevorden.pdf,9,10,10,29,3,3,3,3,3,0,0,3,0,0,2,0,2,0,3,3
+Culemborg,Rechtstreeks,Rechtstreeks,Gelderland,SRC-022,Culembourg.pdf,7,10,5,22,2,3,2,2,3,0,0,2,0,0,0,0,2,0,2,3
+Den Haag,Rechtstreeks,Rechtstreeks,Zuid-Holland,SRC-023,Den Haag.pdf,9,9,10,28,2,3,2,3,2,1,2,3,0,0,2,0,2,0,2,2
+Deventer,Rechtstreeks,Rechtstreeks,Overijssel,SRC-024,Deventer.pdf,8,10,7.5,25.5,3,3,3,2,2,0,2,2,0,2,2,0,2,1,3,2
+Doesburg,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-025,Doesburg.pdf,5,8,3.75,16.75,2,3,2,2,0,0,0,2,0,0,2,0,2,0,2,0
+Doetinchem,Rechtstreeks,Rechtstreeks,Gelderland,SRC-026,Doetinchem.pdf,8,10,7.5,25.5,2,3,2,3,3,0,0,3,0,0,0,2,2,2,2,3
+Dordrecht,Rechtstreeks,Rechtstreeks,Zuid-Holland,SRC-027,Dordrecht.pdf,10,10,10,30,3,3,3,3,3,0,2,3,0,2,2,3,3,1,3,3
+Druten,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-028,Druten.pdf,8,10,7.5,25.5,3,3,3,3,3,0,0,3,0,0,3,0,2,0,3,3
+Duiven,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-029,Duiven.pdf,9,10,2.5,21.5,2,3,2,3,2,0,0,2,0,0,0,0,3,0,2,2
+Ede,Rechtstreeks,Rechtstreeks,Gelderland,SRC-030,Ede.pdf,7,10,5,22,2,3,3,2,3,0,0,2,0,0,0,0,2,0,3,3
+Eijsden-Margraten,Via regio,RMO Zuid-Limburg,Limburg,SRC-031,Eijsden-Margraten.pdf,9,10,10,29,3,3,3,3,3,0,0,1,0,0,3,0,3,0,3,3
+Eindhoven,Rechtstreeks,Rechtstreeks,Noord-Brabant,SRC-032,Eindhoven.pdf,10,10,10,30,3,3,3,3,3,0,1,3,0,0,3,3,3,2,3,3
+Emmen,Rechtstreeks,Rechtstreeks,Drenthe,SRC-033,Emmen.pdf,8,10,8.75,26.75,2,3,3,2,3,0,0,2,0,0,2,0,2,2,3,3
+Enschede,Rechtstreeks,Rechtstreeks,Overijssel,SRC-034,Enschede.pdf,10,10,6.25,26.25,2,3,2,3,3,0,0,3,0,0,1,0,3,1,2,3
+Gennep,Via regio,RMO Noord-Limburg / Trendsportal,Limburg,SRC-035,Gennep.pdf,9,10,2.5,21.5,3,3,3,3,3,0,0,2,0,0,0,0,3,0,3,3
+Gouda,Rechtstreeks,Rechtstreeks,Zuid-Holland,SRC-091,Gouda_Samenlevingsakkoord_2026-2030.pdf,7,10,7.5,24.5,2,3,2,2,2,0,0,2,0,0,2,0,2,2,2,2
+Groningen,Rechtstreeks,Rechtstreeks,Groningen,SRC-036,Groningen.pdf,9,10,10,29,3,3,3,3,3,0,0,3,0,0,3,0,3,0,3,3
+Gulpen-Wittem,Via regio,RMO Zuid-Limburg,Limburg,SRC-037,Gulpen-Wittem.pdf,9,10,5,24,3,3,3,3,3,0,0,0,0,0,3,2,3,0,3,3
+Haarlem,Rechtstreeks,Rechtstreeks,Noord-Holland,SRC-038,Haarlem.pdf,10,10,5,25,3,3,3,3,3,2,0,3,0,0,0,0,3,0,3,3
+Hardenberg,Rechtstreeks,Rechtstreeks,Overijssel,SRC-039,Harderberg.pdf,9,10,5,24,2,3,2,3,2,0,0,2,0,0,0,0,3,0,2,2
+Heerlen,Via regio,RMO Zuid-Limburg,Limburg,SRC-040,Heerlen.pdf,9,10,7.5,26.5,3,3,3,3,3,0,0,3,0,0,3,0,3,2,3,3
+Helmond,Rechtstreeks,Rechtstreeks,Noord-Brabant,SRC-041,Helmond.pdf,7,9,5,21,1,3,2,2,2,0,2,2,0,0,0,2,2,0,2,2
+Het Hogeland,Via regio,Regio Groningen-Assen,Groningen,SRC-043,Hogeland.pdf,8,10,10,28,3,3,3,2,3,0,0,2,0,0,3,0,2,0,3,3
+Heumen,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-042,Heumen.pdf,9,7,6.25,22.25,2,3,0,3,3,0,0,0,0,0,0,0,3,2,0,3
+Horst aan de Maas,Via regio,RMO Noord-Limburg / Trendsportal,Limburg,SRC-044,Horst aan de Maas.pdf,9,10,10,29,3,3,2,3,3,0,2,2,0,2,3,2,3,0,2,3
+Houten,Rechtstreeks,Rechtstreeks,Utrecht,SRC-045,Houten.pdf,8,10,10,28,3,3,3,2,3,0,0,2,0,0,2,0,2,2,3,3
+Kerkrade,Via regio,RMO Zuid-Limburg,Limburg,SRC-046,Kerkrade.pdf,8,10,5,23,3,3,2,3,3,0,0,3,0,0,0,2,2,1,2,3
+Landgraaf,Via regio,RMO Zuid-Limburg,Limburg,SRC-047,Landgraaf.pdf,9,10,7.5,26.5,3,3,2,3,3,0,0,2,0,0,3,0,3,1,2,3
+Leeuwarden,Rechtstreeks,Rechtstreeks,Fryslân,SRC-048,Leeuwarden.pdf,9,10,2.5,21.5,2,3,2,3,2,0,0,2,0,0,0,2,3,2,2,2
+Lelystad,Rechtstreeks,Rechtstreeks,Flevoland,SRC-050,Lelystad.pdf,6,3,3.75,12.75,0,2,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+Lingewaard,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-051,Lingewaard.pdf,9,10,5,24,3,3,3,3,3,0,0,2,0,0,0,0,3,0,3,3
+Maastricht,Via regio,RMO Zuid-Limburg,Limburg,SRC-052,Maastricht.pdf,9,8,10,27,0,3,3,3,3,0,0,3,0,0,2,0,3,0,3,3
+Meerssen,Via regio,RMO Zuid-Limburg,Limburg,SRC-053,Meerssen.pdf,9,10,7.5,26.5,3,3,3,3,3,0,0,3,0,1,3,0,3,0,3,3
+Middelburg,Rechtstreeks,Rechtstreeks,Zeeland,SRC-054,Middelburg.pdf,10,10,8.75,28.75,2,3,2,3,3,0,0,3,0,0,2,0,3,0,2,3
+Midden-Groningen,Via regio,Regio Groningen-Assen,Groningen,SRC-055,Midden Groningen.pdf,9,10,10,29,3,3,3,3,3,0,0,0,0,0,2,0,3,2,3,3
+Montferland,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-056,Montferland.pdf,8,9,8.75,25.75,3,3,3,2,3,0,0,2,0,0,2,0,2,0,3,3
+Mook en Middelaar,Via regio,RMO Noord-Limburg / Trendsportal,Limburg,SRC-057,Mook en middelaar.pdf,8,10,7.5,25.5,3,3,2,2,3,0,0,0,0,0,2,2,2,0,2,3
+Nijmegen,Rechtstreeks,Rechtstreeks,Gelderland,SRC-058,Nijmegen.pdf,9,10,6.25,25.25,2,3,3,2,3,0,0,2,0,0,1,0,2,0,3,3
+Noordoostpolder,Rechtstreeks,Rechtstreeks,Flevoland,SRC-061,Noordoostpolder.pdf,10,8,3.75,21.75,0,3,2,3,3,0,0,2,0,0,0,0,3,0,2,3
+Overbetuwe,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-092,Overbetuwe_Coalitieakkoord_2026-2030.pdf,9,10,8.75,27.75,3,3,3,3,3,0,0,0,0,0,2,0,3,0,3,3
+Peel en Maas,Via regio,RMO Noord-Limburg / Trendsportal,Limburg,SRC-062,Peel en Maas.pdf,9,10,7.5,26.5,3,3,3,3,3,0,0,3,0,0,3,0,3,2,3,3
+Purmerend,Rechtstreeks,Rechtstreeks,Noord-Holland,SRC-063,Purmerend.pdf,8,10,6.25,24.25,2,3,2,2,2,0,0,2,0,0,2,0,2,0,2,2
+Renkum,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-068,Renkum.pdf,4,4,2.5,10.5,0,2,0,2,0,0,0,2,0,0,2,0,2,0,0,0
+Rheden,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-069,Rheden.pdf,9,10,10,29,3,3,3,3,3,0,0,3,0,0,2,3,3,0,3,3
+Rotterdam,Rechtstreeks,Rechtstreeks,Zuid-Holland,SRC-070,Rotterdam.pdf,10,10,10,30,3,3,3,3,3,0,0,3,0,0,2,3,3,2,3,3
+Rozendaal,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-093,Rozendaal_Coalitieakkoord_2026-2030.pdf,5,6,2.5,13.5,2,2,2,0,2,0,0,0,0,0,0,0,0,0,2,2
+Simpelveld,Via regio,RMO Zuid-Limburg,Limburg,SRC-072,Simpelveld.pdf,7,10,2.5,19.5,2,3,2,2,2,0,0,0,0,0,0,0,2,0,2,2
+Sittard-Geleen,Via regio,RMO Zuid-Limburg,Limburg,SRC-073,Sittard-Geleen.pdf,8,10,5,23,2,3,2,3,3,0,0,2,0,0,3,0,3,0,2,3
+Stein,Via regio,RMO Zuid-Limburg,Limburg,SRC-074,Stein.pdf,9,10,10,29,3,3,3,3,3,0,0,3,0,0,3,3,3,1,3,3
+Tilburg,Rechtstreeks,Rechtstreeks,Noord-Brabant,SRC-075,Tilburg.pdf,10,10,7.5,27.5,3,3,3,3,3,0,2,3,0,3,2,3,3,2,3,3
+Urk,Rechtstreeks,Rechtstreeks,Flevoland,SRC-076,Urk.pdf,10,9,10,29,2,3,1,3,3,0,0,2,0,0,2,0,3,0,1,3
+Utrecht,Rechtstreeks,Rechtstreeks,Utrecht,SRC-077,Utrecht.pdf,9,10,8.75,27.75,3,3,3,2,3,0,1,2,0,0,2,0,2,0,3,3
+Vaals,Via regio,RMO Zuid-Limburg,Limburg,SRC-078,Vaals.pdf,8,8,5,21,2,3,0,2,2,0,0,0,0,0,3,0,2,0,0,2
+Valkenburg aan de Geul,Via regio,RMO Zuid-Limburg,Limburg,SRC-079,Valkenburg aan de Geul.pdf,9,10,7.5,26.5,3,3,3,3,3,0,0,3,0,0,2,0,3,0,3,3
+Venlo,Rechtstreeks,Rechtstreeks,Limburg,SRC-080,Venlo.pdf,9,10,10,29,2,3,3,3,3,0,1,3,0,1,2,0,3,0,3,3
+Venray,Via regio,RMO Noord-Limburg / Trendsportal,Limburg,SRC-081,Venray.pdf,9,10,10,29,3,3,3,3,3,0,0,2,0,0,3,2,3,1,3,3
+Vijfheerenlanden,Rechtstreeks,Rechtstreeks,Utrecht,SRC-082,Vijfheerenland.pdf,8,9,5,22,1,3,2,2,2,0,0,2,0,0,2,0,2,0,2,2
+Voerendaal,Via regio,RMO Zuid-Limburg,Limburg,SRC-083,Voerendaal.pdf,9,10,2.5,21.5,3,3,3,3,3,0,0,0,0,0,0,0,3,0,3,3
+Waalwijk,Rechtstreeks,Rechtstreeks,Noord-Brabant,SRC-084,Waalwijk.pdf,10,10,10,30,3,3,3,3,3,0,0,3,0,0,2,0,3,2,3,3
+Westerkwartier,Via regio,Regio Groningen-Assen,Groningen,SRC-085,Westerkwartier.pdf,7,8,2.5,17.5,2,1,1,2,2,0,0,0,0,0,0,0,2,0,1,2
+Westervoort,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-086,Westervoort.pdf,7,10,2.5,19.5,2,3,2,2,2,0,0,2,0,0,0,0,2,0,2,2
+Westerwolde,Rechtstreeks,Rechtstreeks,Groningen,SRC-094,Westerwolde_Coalitieakkoord_2026-2030.pdf,8,9,6.25,23.25,1,3,2,2,3,0,0,0,0,0,1,0,2,0,2,3
+Wijchen,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-088,Wijchen.pdf,9,10,7.5,26.5,3,3,3,3,3,0,0,3,0,2,2,0,3,0,3,3
+Zaanstad,Rechtstreeks,Rechtstreeks,Noord-Holland,SRC-089,Zaanstad.pdf,10,10,8.75,28.75,2,3,3,3,3,0,1,3,0,0,2,0,3,2,3,3
+Zevenaar,Via regio,Regio Arnhem-Nijmegen,Gelderland,SRC-090,Zevenaar.pdf,8,10,10,28,3,3,2,3,3,0,0,3,0,0,3,0,2,0,2,3
