@@ -1,0 +1,14 @@
+﻿,,,,,
+Bestanden die niet als primaire bron zijn gebruikt,,,,,
+"Regionale beleidsdocumenten kunnen uitsluitend kwalitatief worden vergeleken; afgeleide samenvattingen, eerdere analyses en verkeerde perioden zijn uitgesloten.",,,,,
+,,,,,
+source_id,bestandsnaam,entiteit,documenttype,toegestaan gebruik,reden
+SRC-049,Leiden.pdf,Leiden,GEMEENTELIJKE_BRON,Niet gebruiken voor 2026–2030; document betreft 2022–2026.,Aangeleverd document is het beleidsakkoord 2022–2026. Voor 2026–2030 is volgens de opdrachtgever geen inhoudelijk akkoord gesloten.
+SRC-059,Noord Limbrg Regio 2026.pdf,RMO Noord-Limburg / Trendsportal,OFFICIEEL_REGIONAAL_BELEID,Alleen kwalitatieve regionale vergelijking; nooit gemeentelijk tellen of scoren.,"Origineel Jaarplan 2026 van Trendsportal; kwalitatieve regionale bron, niet telbaar als gemeentelijk akkoord."
+SRC-060,Noord Limbrg Regio.pdf,RMO Noord-Limburg / Trendsportal,OFFICIEEL_REGIONAAL_BELEID,Alleen kwalitatieve regionale vergelijking; nooit gemeentelijk tellen of scoren.,"Originele Mobiliteitsambitie Noord-Limburg; aanvullend op het Jaarplan 2026, geen doublure."
+SRC-064,Regio Arnhem Nijmegen.pdf,Regio Arnhem-Nijmegen,OFFICIEEL_REGIONAAL_BELEID,Alleen kwalitatieve regionale vergelijking; nooit gemeentelijk tellen of scoren.,Originele Regionale Agenda en begroting. De ledenlijst in dit document is inmiddels verouderd: Mook en Middelaar staat erin; de actuele GNMI/GMR-indeling bevat Montferland.
+SRC-065,Regio Groningen-Assen 2026.pdf,Regio Groningen-Assen,AFGELEIDE_SAMENVATTING,Niet als primaire bron gebruiken; volledig uitsluiten van telling en scoring.,Gemeentelijke aanbiedingsbrief over het Uitvoeringsprogramma. De genoemde bijlage met het eigenlijke uitvoeringsprogramma ontbreekt; daarom niet gebruiken als oorspronkelijke regionale beleidsbron.
+SRC-066,Regio Groningen-Asses.pdf,Regio Groningen-Assen,OFFICIEEL_REGIONAAL_BELEID,Alleen kwalitatieve regionale vergelijking; nooit gemeentelijk tellen of scoren.,"Originele Toekomstagenda 2026–2030. Bestandsnaam bevat een typefout; tekstextractie heeft enige layoutruis, maar de hoofdtekst is bruikbaar."
+SRC-067,Regio Zuid Limburg.pdf,RMO Zuid-Limburg,AFGELEIDE_SAMENVATTING,Niet als primaire bron gebruiken; volledig uitsluiten van telling en scoring.,Raadsinformatiebrief die het Programmaplan samenvat. Het oorspronkelijke Programmaplan en de projectbladen ontbreken. De brief dateert 26 maart 2025 maar verwijst naar overleg van 10 september 2025; datum verifiëren.
+SRC-071,Rozendaal.pdf,Rozendaal,DUBBEL_OF_ANDERE_VERSIE,Niet gebruiken; actuele 2026–2030-versie is afzonderlijk geregistreerd.,Oorspronkelijk akkoord 2022–2026; vervangen door SRC-093 (2026–2030).
+SRC-087,Westerwolde.pdf,Westerwolde,DUBBEL_OF_ANDERE_VERSIE,Niet gebruiken; actuele 2026–2030-versie is afzonderlijk geregistreerd.,Oorspronkelijk akkoord 2022–2026; vervangen door SRC-094 (2026–2030).
