@@ -1,0 +1,350 @@
+        7           T07                                         61                  71,8%                  65,95
+                                       en slimme mobiliteit
+
+                                       Toegankelijke en
+                                       betaalbare mobiliteit;
+        8           T08                                         59                  69,4%                  63,60
+                                       bereikbaarheid van
+                                       kernen
+
+                                       Beheer, onderhoud
+        9           T10                en civiele               57                  67,1%                  61,44
+                                       infrastructuur
+
+                                       Goederenvervoer,
+        10          T09                                         47                  55,3%                  52,18
+                                       logistiek en
+
+
+                                                                                                        17 september 2026 |    18
+                                                                                     GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+       Rang                   Code              Kandidaatthema           Aanwezig             % van 85               Relevantie /100
+
+                                               bijzondere
+                                               vervoersstromen
+
+
+Parkeren eindigt als zesde: het is breed en collectief relevant, maar minder universeel dan de vijf geselecteerde
+thema’s. Duurzame, gedeelde en slimme mobiliteit en toegankelijkheid zijn inhoudelijk belangrijk, maar komen in
+minder akkoorden zelfstandig en prominent voor. Beheer en logistiek hebben een duidelijke gezamenlijke
+opgave, maar een lager totaalbereik. De nieuwe-programmasporen in hoofdstuk 9 gebruiken daarom een andere,
+vooraf vastgestelde drempel dan de top-vijfselectie.
+
+
+
+8 Analyse van de huidige GNMI-thema’s
+De vijf prioriteitsclusters sluiten zeer breed aan op de akkoorden: elk cluster komt in 80 tot 84 van de 85
+akkoorden voor. Specifieke werkterreinen lopen uiteen van 1 tot 68 akkoorden. Frequentie is voor niches niet
+doorslaggevend; wettelijke expertise, schaarse kennis en netwerkwaarde wegen mee.
+
+
+
+
+Figuur 8.1 Frequentie van de huidige GNMI-clusters, werkterreinen en dwarsdoorsnijdende onderwerpen. Noemer: 85 geanalyseerde
+ akkoorden per indicator. GNMI-peildatum: 15 augustus 2026; raadpleegdatum: 27 augustus 2026. Bronbereik: 85 van 88 verwachte
+                   akkoorden. Ontbrekend/niet inhoudelijk: Edam-Volendam, Leidschendam-Voorburg en Leiden.
+
+       ID              Thema                 Aanwezig       Aandeel van 85     Rechtstreeks         Via regio         Regio’s materieel
+
+                  Verkeersveiligheid,
+       C1         veilige inrichting    81                 95,3%             42/44             39/41                 4
+                  en handhaving
+
+                  Multimodale
+                  bereikbaarheid,
+       C2                               84                 98,8%             44/44             40/41                 4
+                  OV en
+                  toegankelijkheid
+
+                  Duurzame, actieve
+                  en gedeelde
+       C3                               80                 94,1%             44/44             36/41                 4
+                  mobiliteit en zero-
+                  emissie
+
+                  Mobiliteit,
+       C4                               84                 98,8%             44/44             40/41                 4
+                  woningbouw,
+
+
+
+                                                                                                                17 september 2026 |    19
+                                                                                GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+       ID               Thema              Aanwezig    Aandeel van 85     Rechtstreeks           Via regio         Regio’s materieel
+
+                 ruimte, parkeren
+                 en leefbaarheid
+
+                 Mobiliteitsdata,
+                 digitalisering,
+       C5                             82              96,5%             43/44             39/41                   4
+                 kennis en
+                 uitvoeringskracht
+
+      W1         Taxi                 3               3,5%              3/44              0/41                    0
+
+      W2         Stadslogistiek       15              17,6%             14/44             1/41                    1
+
+      W3         Parkeren             68              80,0%             41/44             27/41                   4
+
+                 Verkeersjuridische
+      W4                              1               1,2%              1/44              0/41                    0
+                 zaken
+
+                 Aanpak
+      W5                              8               9,4%              5/44              3/41                    3
+                 geluidsoverlast
+
+                 Toegankelijkheid,
+       D1        inclusie en brede    59              69,4%             32/44             27/41                   4
+                 welvaart
+
+                 Data, bewijs,
+       D2        monitoring en        20              23,5%             11/44             9/41                    3
+                 digitalisering
+
+                 Ruimte,
+       D3        woningbouw en        83              97,6%             43/44             40/41                   4
+                 leefomgeving
+
+                 Gedrag,
+       D4        participatie en      26              30,6%             18/44             8/41                    4
+                 handhaving
+
+                 Duurzaamheid en
+       D5                             80              94,1%             44/44             36/41                   4
+                 zero-emissie
+
+                 Governance,
+                 financiering en
+       D6                             82              96,5%             43/44             39/41                   4
+                 interbestuurlijke
+                 samenwerking
+
+
+
+
+8.2 Duiding per categorie
+Prioriteitsclusters. C1 tot en met C5 hebben elk een zeer breed bereik. De verschillen liggen minder in
+aanwezigheid dan in beleidsintensiteit en in de gemeentelijke context waarin een cluster wordt uitgewerkt. Bij
+duurzame mobiliteit komen actieve, gedeelde en zero-emissie mobiliteit vaak samen. Bij data en
+uitvoeringskracht is de vertaling naar concrete gemeentelijke toepassing minder gelijkmatig zichtbaar.
+Specifieke werkterreinen. Parkeren is met 68 van 85 akkoorden veruit het meest voorkomende afzonderlijke
+werkterrein. Taxi, stadslogistiek, verkeersjuridische zaken en geluidsoverlast hebben een veel kleiner bereik.
+Frequentie alleen bepaalt hun latere advies niet: wettelijke taken, specialistische kennis en de mogelijkheid om
+een onderwerp binnen een breder thema onder te brengen wegen eveneens mee.
+Dwarsdoorsnijdende onderwerpen. Ruimte, duurzaamheid en governance komen binnen veel verschillende
+thema’s terug. Toegankelijkheid, data en gedrag zijn eveneens op meerdere plaatsen zichtbaar. Deze categorie
+beschrijft dus vooral hoe onderwerpen door de inhoudelijke clusters heen lopen; het is nog geen keuze voor een
+afzonderlijke GNMI-structuur.
+
+
+
+9 Nieuwe of onderbelichte gemeentelijke thema’s
+Een onderwerp is geselecteerd wanneer het inhoudelijk afgebakend is, in meerdere gemeenten en provincies
+voorkomt, een collectief handelings-, kennis- of samenwerkingsvraagstuk bevat en minimaal 15% van de
+
+                                                                                                             17 september 2026 |   20
+                                                                                   GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+akkoorden haalt of in ten minste acht akkoorden concreet of programmatisch wordt uitgewerkt. Na eindcontrole
+voldoen twee onderwerpen.
+
+
+
+
+Figuur 9.1 Omvang en concreetheid van de twee voorgestelde programmasporen. Noemer: 85 geanalyseerde akkoorden; concrete of
+programmatische uitwerking is intensiteit 2 of 3. GNMI-peildatum: 15 augustus 2026; raadpleegdatum: 27 augustus 2026. Bronbereik:
+         85 van 88 verwachte akkoorden. Ontbrekend/niet inhoudelijk: Edam-Volendam, Leidschendam-Voorburg en Leiden.
+
+
+9.2 Beheer, vervanging en financiering van civiele mobiliteitsassets
+Bevinding. 57 van 85 akkoorden (67,1%); 52 concrete of programmatische uitwerkingen; zichtbaar in 12
+provincies.
+Duiding. Gemeenten delen uitvoerings-, kennis-, financierings- en samenwerkingsvragen die met gezamenlijke
+formats en kennisuitwisseling efficiënter kunnen worden aangepakt. De vergelijking met de vastgezette GNMI-
+agenda laat zien: Geen herkenbaar GNMI-dossier voor assetmanagement, vervangingsgolven, kwaliteitsniveaus
+en civiele beheerprogrammering.
+     "We willen het wegenonderhoud op een aanvaardbaar niveau houden en zien dat een impuls nodig is. In het
+     wegenbeleidsplan leggen we vast op welke wijze we hier invulling aan kunnen geven met een combinatie van
+     structurele en incidentele investeringen."
+     Aa en Hunze - Aa en Hunze.pdf, PDF p. 12; bewijs H14-0009
+
+     "Tegelijk is blijvende inzet voor verkeersveiligheid keihard nodig. Hier werken we aan door planmatig onderhoud
+     van stoepen, wegen en straten. Doordat de gemeente de komende jaren verder moet bezuinigen, kan niet alles
+     zo snel als we zouden willen, maar we zorgen voor een duidelijke planning."
+     Houten - Houten.pdf, PDF p. 35; gedrukt p. 35; bewijs H14-2015
+
+     "Het beleid rondom het onderhoudsniveau van onze wegen zetten we voort, tenzij de financiële situatie ons
+     dwingt om andere keuzes te maken."
+     Middelburg - Middelburg.pdf, PDF p. 22; gedrukt p. 22; bewijs H14-2300
+
+     "In het nieuwe Wegenbeheerplan 2029- 2032 krijgt onderhoud een prominente plek."
+     Coevorden - Coevorden.pdf, PDF p. 7; bewijs H14-0799
+
+
+9.3 Rijks- en provinciale hoofdwegen en grootschalige wegprojecten
+Bevinding. 45 van 85 akkoorden (52,9%); 34 concrete of programmatische uitwerkingen; zichtbaar in 11
+provincies.
+Duiding. Gemeenten delen uitvoerings-, kennis-, financierings- en samenwerkingsvragen die met gezamenlijke
+formats en kennisuitwisseling efficiënter kunnen worden aangepakt. De vergelijking met de vastgezette GNMI-
+
+                                                                                                           17 september 2026 |   21
+                                                                                    GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+agenda laat zien: Hoofdwegknelpunten, lokaal effect, projectrijpheid en cofinanciering staan nog niet als
+herkenbare gezamenlijke portefeuille op de agenda.
+    "We onderzoeken de haalbaarheid en wenselijkheid van een rondweg om Haalderen. Hiervoor reserveren we €
+    50.000."
+    Lingewaard - Lingewaard.pdf, PDF p. 19; gedrukt p. 36-37; bewijs H14-2175
+
+    "We monitoren daarom de komende periode de belangrijkste verkeersroutes op hun veiligheid, ook de
+    oversteekplaatsen bij de Rijksweg en Cuijksesteeg."
+    Mook en Middelaar - Mook en middelaar.pdf, PDF p. 16; bewijs H14-2418
+
+    "Ook blijven we ons inzetten voor de verdubbeling van de N34. De F34 en de fietsroute langs de weg Emmen-
+    Klazienaveen zien we als cruciale regionale doorfietsroute voor gezonde verstedelijking. Evenwichtige aanpak
+    Wij kiezen voor bereikbaarheid in de volle breedte."
+    Emmen - Emmen.pdf, PDF p. 15; gedrukt p. 29; bewijs H14-1416
+
+    "We verbeteren de bereikbaarheid en verkeersveiligheid op de westelijke ringweg door knelpunten aan te
+    pakken."
+    Groningen - Groningen.pdf, PDF p. 25; gedrukt p. 48-49; bewijs H14-1595
+
+
+9.4 Niet geselecteerde signalen
+Goederenlogistiek en bezoekers- of piekmobiliteit blijven zichtbaar in de codeboom en bewijsbasis, maar zijn na
+de eindcontrole niet als zelfstandig nieuw GNMI-onderwerp geselecteerd. Goederenlogistiek overlapt sterk met
+de bestaande lijnen duurzame mobiliteit, bereikbaarheid en stadslogistiek. Bezoekers- en piekmobiliteit is te smal
+en te contextgebonden voor een apart programmaspoor binnen deze populatie.
+
+
+
+10 Aanbeveling A huidige GNMI-agenda
+De adviezen combineren omvang, intensiteit, spreiding, directe en regionale dekking, wettelijke of specialistische
+waarde en de collectieve toegevoegde waarde van GNMI. De bronpassages onderbouwen dat de onderwerpen
+daadwerkelijk in gemeentelijke akkoorden voorkomen; zij vormen geen evaluatie van uitvoering of effect.
+
+
+10.1 Overzicht van de adviezen
+             ID                               Thema                        Hoofdadvies                         Aanwezig
+
+                             Verkeersveiligheid, veilige
+             C1                                                 intensiveren                       81/85
+                             inrichting en handhaving
+
+                             Multimodale bereikbaarheid, OV
+             C2                                                 intensiveren                       84/85
+                             en toegankelijkheid
+
+                             Duurzame, actieve en gedeelde
+             C3                                                 actualiseren of verbreden          80/85
+                             mobiliteit en zero-emissie
+
+                             Mobiliteit, woningbouw, ruimte,
+             C4                                                 intensiveren                       84/85
+                             parkeren en leefbaarheid
+
+                             Mobiliteitsdata, digitalisering,
+             C5                                                 actualiseren of verbreden          82/85
+                             kennis en uitvoeringskracht
+
+                                                                laagfrequent maar als niche
+             W1              Taxi                                                                  3/85
+                                                                behouden
+
+             W2              Stadslogistiek                     afbouwen                           15/85
+
+             W3              Parkeren                           actualiseren of verbreden          68/85
+
+                                                                laagfrequent maar als niche
+             W4              Verkeersjuridische zaken                                              1/85
+                                                                behouden
+
+             W5              Aanpak geluidsoverlast             onderbrengen bij een ander thema   8/85
+
+
+
+
+                                                                                                            17 september 2026 |   22
+                                                                                       GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
+
+
+             ID                            Thema                               Hoofdadvies                        Aanwezig
+
+                              Toegankelijkheid, inclusie en brede
+             D1                                                     onderbrengen bij een ander thema   59/85
+                              welvaart
+
+                              Data, bewijs, monitoring en
+             D2                                                     onderbrengen bij een ander thema   20/85
+                              digitalisering
+
+                              Ruimte, woningbouw en
+             D3                                                     behouden                           83/85
+                              leefomgeving
+
+             D4               Gedrag, participatie en handhaving    onderbrengen bij een ander thema   26/85
+
+             D5               Duurzaamheid en zero-emissie          onderbrengen bij een ander thema   80/85
+
+                              Governance, financiering en
+             D6                                                     onderbrengen bij een ander thema   82/85
+                              interbestuurlijke samenwerking
+
+
+Het overzicht is het resultaat van de voorafgaande hoofdstukken. Een laag aantal leidt niet automatisch tot
+afbouw: bij nicheonderwerpen kan specialistische of wettelijke waarde zwaarder wegen. Omgekeerd is een hoge
+frequentie niet automatisch reden voor een nieuwe zelfstandige structuur wanneer het onderwerp beter als
+doorsnijdende kwaliteitseis kan worden georganiseerd.
+
+
+10.2 C1 Verkeersveiligheid, veilige inrichting en handhaving
+Advies. Intensiveren. Bundel ontwerpkennis, gedragsaanpak, juridische borging en monitoring voor 30
+km/GOW30, schoolroutes en veilige inrichting.
+Onderbouwing. 81 van 85 akkoorden (95,3%); gemiddelde intensiteit indien aanwezig 2,49; direct 42 van 44; via
+regio 39 van 41; materieel in 4 van vier vergelijkbare regio’s. Intensiteitsverdeling 1/2/3: 5/31/45.
+Collectieve waarde. GNMI kan kennis bundelen, werkwijzen vergelijkbaar maken, gezamenlijke posities
+voorbereiden en de verbinding met Rijk, provincies, vervoerders en kennispartners organiseren.
+    "Verkeersknelpunten pakken we gericht aan, zoals de fietsersoversteek aan de Harderwijkerweg in Laag-
+    Soeren, de fietssituatie bij de Spoorstraat in Dieren en de oversteek bij de Hofstetterlaan in Ellecom. Samen
+    met gebruikers monitoren we de veiligheid op de Kanaalweg in Dieren."
+    Rheden - Rheden.pdf, PDF p. 33; bewijs H14-2696
+
+    "→We investeren in meer veiligheid voor voetgangers, fietsers en auto’s door budget vrij te maken voor gerichte
+    ingrepen, met name op drukke kruispunten, school- en sportroutes."
+    Haarlem - Haarlem.pdf, PDF p. 17; bewijs H14-1721
+
+
+10.3 C2 Multimodale bereikbaarheid, OV en toegankelijkheid
+Advies. Intensiveren. Versterk de gezamenlijke lijn voor toegankelijk OV, hubs, kleine kernen en structurele
+financiering met Rijk, provincies en vervoerders.
+Onderbouwing. 84 van 85 akkoorden (98,8%); gemiddelde intensiteit indien aanwezig 2,90; direct 44 van 44; via
+regio 40 van 41; materieel in 4 van vier vergelijkbare regio’s. Intensiteitsverdeling 1/2/3: 2/4/78.
+Collectieve waarde. GNMI kan kennis bundelen, werkwijzen vergelijkbaar maken, gezamenlijke posities
+voorbereiden en de verbinding met Rijk, provincies, vervoerders en kennispartners organiseren.
+    "De bus moet in de stad dichtbij, betaalbaar en toegankelijk zijn, met goede verbindingen naar alle wijken, werk,
+    scholen en evenementen."
+    Eindhoven - Eindhoven.pdf, PDF p. 11; gedrukt p. 13; bewijs H14-1284
+
+    "Voor bezoekers verbeteren we onze P&R-locaties en de bereikbaarheid van de (binnen) stad vanaf die
+    locaties. Ook zetten we ons in voor meer nachttreinen en -bussen."
+    Nijmegen - Nijmegen.pdf, PDF p. 8; gedrukt p. 15; bewijs H14-2444
+
+
+
+
+                                                                                                               17 september 2026 |   23
+                                                                             GNMI onderzoek 2026-2030 | Concept 1.0 definitief
+
