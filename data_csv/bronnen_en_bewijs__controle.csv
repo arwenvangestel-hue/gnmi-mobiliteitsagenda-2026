@@ -1,0 +1,16 @@
+﻿,,,
+Bron- en bewijscontrole,,,
+Publicatiecontrole op volledigheid en herleidbaarheid.,,,
+,,,
+Controlepunt,Waarde,Norm,Status
+Bewijspassages,3672,3672,OK
+Unieke evidence-ID’s,3672,3672,OK
+Akkoord–themaregels,935,935,OK
+Positief zonder bewijs,0,0,OK
+Bewijs zonder bestandsnaam,0,0,OK
+Bewijs zonder PDF-pagina,0,0,OK
+OCR-bewijsregels,57,informatief,OK
+Afgeleide samenvatting als primaire bron,0,0,OK
+Ontbrekende bron 1,Edam-Volendam — ontbreekt,vaste vermelding,OK
+Ontbrekende bron 2,Leidschendam-Voorburg — ontbreekt,vaste vermelding,OK
+Niet-inhoudelijke bron,Leiden — geen inhoudelijk akkoord gesloten,vaste vermelding,OK
