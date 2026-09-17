@@ -13,14 +13,12 @@ Open onderzoeksdossier over mobiliteit, verkeer en infrastructuur in Nederlandse
 ## Direct bekijken
 
 - [Interactieve Gamma-presentatie](https://gamma.app/docs/h347zfjziwm8hco)
-- [Onderzoeksrapport als PDF](rapport/GNMI_onderzoeksrapport_v1.0_2026-09-17.pdf)
-- [Onderzoeksrapport als Word-document](rapport/GNMI_onderzoeksrapport_v1.0_2026-09-17.docx)
-- [Presentatie als PowerPoint](presentatie/GNMI_presentatie_2026-2030.pptx)
+- [Volledige rapporttekst](rapport_tekst/)
 
 ## Controleerbare data
 
-- [Volledig onderzoeksbestand](data/GNMI_volledig_onderzoeksbestand_v1.0_2026-09-17.xlsx)
-- [Bronnen- en bewijstabel](data/GNMI_bronnen_en_bewijs_v1.0_2026-09-17.xlsx)
+- [Volledig onderzoeksbestand als open CSV-data](data_csv/)
+- [Bronnen- en bewijstabel met alle passages](data_csv/)
 - [Beperkingen en resterende controlepunten](data/beperkingen_en_controlepunten.txt)
 - [Alle visualisaties](visualisaties/)
 
