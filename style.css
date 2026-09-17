@@ -13,7 +13,7 @@
 html { scroll-behavior: smooth; }
 body { margin: 0; color: var(--ink); background: var(--paper); font-family: Inter, Arial, sans-serif; line-height: 1.55; }
 a { color: inherit; }
-.hero { min-height: 76vh; color: var(--white); background: linear-gradient(125deg, rgba(13,44,59,.96), rgba(8,124,123,.86)), url("visualisaties/06_GNMI_aansluiting_vs_mobiliteitsambitie.png") center/cover; padding: 1.4rem clamp(1.4rem,5vw,5rem) 5rem; }
+.hero { min-height: 76vh; color: var(--white); background: linear-gradient(125deg, rgba(13,44,59,.96), rgba(8,124,123,.86)), url("visualisaties/06_GNMI_aansluiting_vs_mobiliteitsambitie.svg") center/cover; padding: 1.4rem clamp(1.4rem,5vw,5rem) 5rem; }
 nav { display: flex; justify-content: space-between; max-width: 1180px; margin: auto; font-size: .9rem; letter-spacing: .04em; }
 nav a { text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.5); }
 .hero-copy { max-width: 980px; margin: clamp(5rem,12vh,9rem) auto 0; }
