@@ -13,4 +13,6 @@ De volledige tekst van het onderzoeksrapport is vanwege de omvang verdeeld over 
 9. [Deel 08](report_text_deel_08.txt)
 10. [Deel 09](report_text_deel_09.txt)
 
-De visueel vormgegeven publieksversie is samengevat in de [Gamma-presentatie](https://gamma.app/docs/h347zfjziwm8hco).
+De visueel vormgegeven publieksversie is samengevat in de [Gamma-presentatie](https://gamma.app/docs/z39ltg3lng5yon7).
+
+[Lees het oorspronkelijke rapport als PDF](Concept_GNMI_onderzoeksrapport_v1.0-definitief_2026-09-17.pdf).

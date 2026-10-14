@@ -12,7 +12,10 @@ Open onderzoeksdossier over mobiliteit, verkeer en infrastructuur in Nederlandse
 
 ## Direct bekijken
 
-- [Interactieve Gamma-presentatie](https://gamma.app/docs/h347zfjziwm8hco)
+- [Openbare onderzoekswebsite](https://arwenvangestel-hue.github.io/gnmi-mobiliteitsagenda-2026/)
+- [Oorspronkelijk onderzoeksrapport (PDF)](rapport_tekst/Concept_GNMI_onderzoeksrapport_v1.0-definitief_2026-09-17.pdf)
+
+- [Interactieve Gamma-presentatie](https://gamma.app/docs/z39ltg3lng5yon7)
 - [Volledige rapporttekst](rapport_tekst/)
 
 ## Controleerbare data
