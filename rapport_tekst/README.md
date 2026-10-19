@@ -15,4 +15,6 @@ De volledige tekst van het onderzoeksrapport is vanwege de omvang verdeeld over 
 
 De visueel vormgegeven publieksversie is samengevat in de [Gamma-presentatie](https://gamma.app/docs/z39ltg3lng5yon7).
 
-[Lees het oorspronkelijke rapport als PDF](Concept_GNMI_onderzoeksrapport_v1.0-definitief_2026-09-17.pdf).
+[Lees het volledige rapport in de GNMI-huisstijl als PDF](GNMI-onderzoeksrapport-huisstijl.pdf).
+
+De opmaak is op 19 oktober 2026 aangepast aan de GNMI-huisstijl. Deze versie telt 55 pagina’s. De vastgestelde onderzoeksinhoud, cijfers en bronverwijzingen zijn behouden; de paginaverwijzingen in de inhoudsopgave zijn bijgewerkt. De onderzoeksversie blijft 17 september 2026.
