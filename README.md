@@ -12,6 +12,7 @@ Open onderzoeksdossier over mobiliteit, verkeer en infrastructuur in Nederlandse
 
 ## Direct bekijken
 
+- [Gemeentespiegel — vergelijking per gemeente, eigen upload en PDF](https://arwenvangestel-hue.github.io/gnmi-mobiliteitsagenda-2026/gemeentespiegel.html)
 - [Openbare onderzoekswebsite](https://arwenvangestel-hue.github.io/gnmi-mobiliteitsagenda-2026/)
 - [Oorspronkelijk onderzoeksrapport (PDF)](rapport_tekst/Concept_GNMI_onderzoeksrapport_v1.0-definitief_2026-09-17.pdf)
 
