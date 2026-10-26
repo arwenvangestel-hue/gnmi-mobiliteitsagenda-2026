@@ -1,37 +1,27 @@
 # Gemeentespiegel
 
-Zelfstandige tweede pagina bij het GNMI-onderzoeksdossier. Werkt op GitHub Pages zonder server, API-sleutels, accounts of externe documentverwerking.
+Tweede pagina bij het GNMI-onderzoeksdossier. De openbare vergelijking gebruikt steeds dezelfde 85 onderzochte gemeenteakkoorden. Scores en data uit het oorspronkelijke onderzoek blijven ongewijzigd.
 
-## Gegevens
+## Eén overzicht op web en PDF
 
-`onderzoek.json` is reproduceerbaar opgebouwd uit de gepubliceerde CSV-exporten met `python scripts/build-gemeentespiegel.py`. De exports zijn opeenvolgende delen van één tabel; alleen het eerste deel heeft een kop. De bouwer controleert 85 gemeenten, 935 themascores en 3.672 gekoppelde passages. Oorspronkelijke scores en ranglijsten blijven ongewijzigd.
+`presentation.mjs` levert dezelfde inhoud aan de webpagina en de PDF: vier kerncijfers, een gemeenteprofiel, tien inhoudelijke thema’s, maximaal drie verkenningsvragen en passende GNMI-links. De PDF is één A4. Achtergrondinformatie en passages uit het eigen akkoord blijven op de webpagina uitklapbaar. Voorbeelden en citaten van andere gemeenten worden niet getoond.
 
-De standaardvergelijking gebruikt alle 85 individuele gemeentelijke akkoorden. Direct (44) en via regio (41) zijn apart te kiezen. Gemeentelijke en regionale gemiddelden worden niet gemengd. Gelijke totaalscores delen een rang. De oorspronkelijke rang binnen de eigen onderzoeksgroep blijft apart zichtbaar.
+De themabalken vergelijken de mate van uitwerking op de schaal 0–3. Een aparte kolom toont in hoeveel van de 85 akkoorden het thema wordt genoemd. Dit percentage is geen gemeentelijke score. Gelijke totaalscores delen een plek. Decimalen worden kleiner weergegeven; de oorspronkelijke deelrang en de A/B/C-deelscores staan niet in het overzicht.
 
-## Nieuwe documenten
+## Data en uploads
 
-PDF.js leest PDF-tekst met de fysieke PDF-pagina. DOCX-tekst wordt uit `word/document.xml` gehaald; DOCX en TXT krijgen geen verzonnen paginanummers. Er zijn grenzen aan bestandsgrootte, tekstomvang en pagina-aantal. Een scan zonder tekstlaag wordt geweigerd met een OCR-melding. Documenten verlaten de browser niet en worden niet opgeslagen.
+`python scripts/build-gemeentespiegel.py` bouwt de datasnapshot opnieuw uit de openbare CSV-exporten en controleert 85 gemeenten, 935 themascores en 3.672 passages.
 
-De lokale scan zoekt per thema naar expliciete patronen en doet een voorlopig intensiteitsvoorstel. Dit is geen semantische AI-analyse en geen volwaardige herhaling van het menselijk gecontroleerde onderzoek. Context, ontkenningen, opmaak en niet-herkende formuleringen kunnen de scan beïnvloeden. Scores en passages zijn zichtbaar en themascores kunnen worden aangepast. De A- en B-inschattingen zijn benaderingen van de rubricering; C-alt volgt de beschreven inklemming op maximaal 2. Elk uploadresultaat en de bijbehorende PDF zijn als indicatief gemarkeerd en veranderen de referentiedata niet.
+PDF.js leest PDF-tekst met paginaverwijzingen. DOCX en TXT krijgen geen verzonnen paginanummers. Bestanden blijven in de browser. Er zijn grenzen voor bestandsgrootte, tekstomvang en pagina-aantal; een scan zonder tekstlaag heeft eerst OCR nodig.
 
-## PDF en huisstijl
-
-De PDF wordt lokaal met pdf-lib en ingesloten Open Sans-lettertypen gemaakt. Zij bevat vergelijking, themabalken, verkenningsvragen, bewijsvoorbeelden, eigen bewijsankers, methodetoelichting en klikbare GNMI-links. De bronvermelding noemt de gebruikte akkoordversie.
-
-GNMI-groepsinformatie is gecontroleerd op 26 oktober 2026. Voor assetmanagement wordt GNMI Mobiliteit als contactroute genoemd; een zelfstandige assetmanagementgroep wordt niet als bestaand gepresenteerd.
+Nieuwe documenten krijgen een indicatieve lokale tekstscan. Context, ontkenningen en niet-herkende formuleringen kunnen de scan beïnvloeden. Gebruikers kunnen passages controleren en scores aanpassen. Uploads veranderen de 85 referentieakkoorden niet. De berekening benadert de onderzoeksrubriek en vervangt de menselijke controle niet.
 
 ## Controle
 
-`node --test scripts/check-gemeentespiegel.mjs`
+- `node --test scripts/check-gemeentespiegel.mjs`
+- `node --test scripts/check-gemeentespiegel-pdf.mjs`
+- Render de PDF voor visuele controle en controleer de website op breed en smal scherm.
 
-Aanvullend: browsercontrole van selectie, vergelijkingsgroep, eigen scan en correctie; PDF-download genereren en renderen; controle van desktop en smal scherm.
+## Software
 
-## Gebundelde software
-
-- PDF.js 5.6.205 (Apache 2.0)
-- pdf-lib 1.17.1 (MIT)
-- @pdf-lib/fontkit 1.1.1 (MIT)
-- JSZip 3.10.1 (MIT / GPLv3)
-- Open Sans (SIL Open Font License; bestaande huisstijlfont)
-
-Licenties staan bij de leveranciersbestanden en in `assets/fonts/OFL.txt`.
+Gebundeld: PDF.js 5.6.205, pdf-lib 1.17.1, @pdf-lib/fontkit 1.1.1 en JSZip 3.10.1. Leverancierslicenties staan in `vendor/`. De bestaande GNMI-huisstijl gebruikt Open Sans onder de SIL Open Font License; zie `assets/fonts/OFL.txt`.

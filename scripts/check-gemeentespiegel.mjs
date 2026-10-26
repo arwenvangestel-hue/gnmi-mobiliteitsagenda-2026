@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {report,scan,updateUpload} from '../vergelijking/engine.mjs';
+import {overview,numberParts} from '../vergelijking/presentation.mjs';
 const data=JSON.parse(fs.readFileSync(new URL('../vergelijking/onderzoek.json',import.meta.url)));
 test('frozen population and evidence have the published size',()=>{
  assert.equal(data.municipalities.length,85);assert.equal(Object.keys(data.evidence).length,3672);
@@ -44,4 +45,11 @@ test('Tilburg evidence examples show mobility context',()=>{
  assert.match(r.themes.find(t=>t.code==='T03').own[0].text,/OV|openbaar vervoer|concessie/);
  assert.doesNotMatch(r.themes.find(t=>t.code==='T03').own[0].text,/Stichting Spoor/);
  assert.match(r.themes.find(t=>t.code==='T02').own[0].text,/fiets.*loopagenda/);
+});
+test('compact web/PDF model separates intensity from frequency for the same 85 agreements',()=>{
+ for(const m of data.municipalities){const r=report(data,m),v=overview(r);assert.equal(v.n,85);assert.equal(v.themes.length,10);assert.equal(r.referenceScores.length,85);assert.ok(v.priorities.length<=3);
+  for(const t of v.themes){assert.equal(t.count,data.municipalities.filter(x=>x.themes[t.code].level>0).length);assert.equal(t.level,m.themes[t.code].level);}
+  assert.ok(v.priorities.every(t=>!Object.hasOwn(t,'examples')));
+ }
+ assert.deepEqual(numberParts(25.25),{integer:'25',decimal:',25'});assert.deepEqual(numberParts(30),{integer:'30',decimal:''});
 });

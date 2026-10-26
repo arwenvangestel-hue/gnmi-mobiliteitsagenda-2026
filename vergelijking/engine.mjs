@@ -22,17 +22,13 @@ export function report(data,m,mode='all'){
  const higher=pool.filter(x=>x.total>m.total).length, ties=pool.filter(x=>x.total===m.total).length;
  const themes=data.themes.map(t=>{const code=t.Code,level=m.themes[code].level;
   const count=pool.filter(x=>x.themes[code].level>0).length,mean=average(pool,x=>x.themes[code].level);
-  const peers=pool.filter(x=>x.name!==m.name&&x.themes[code].level>level&&x.themes[code].level>=2)
-    .sort((a,b)=>(b.province===m.province)-(a.province===m.province)||b.themes[code].level-a.themes[code].level||a.name.localeCompare(b.name,'nl'));
   const quality=e=>evidenceQuality(code,e);
-  const candidates=peers.map(x=>{const es=x.themes[code].ids.map(id=>data.evidence[id]).filter(Boolean).sort((a,b)=>quality(b)-quality(a));return {name:x.name,url:x.url,file:x.file,level:x.themes[code].level,evidence:es[0]};});
-  const readable=candidates.filter(x=>x.evidence&&x.evidence.text.length>=90);
-  const examples=(readable.length?readable:candidates).slice(0,3);
-  return {...t,...context[code],code,level,count,mean,percent:count/pool.length*100,examples,own:m.themes[code].ids.map(id=>m.upload?m.evidence[id]:data.evidence[id]).filter(Boolean).sort((a,b)=>quality(b)-quality(a))};
+  const concreteCount=pool.filter(x=>x.themes[code].level>=2).length;
+  return {...t,...context[code],code,level,count,mean,percent:count/pool.length*100,concreteCount,own:m.themes[code].ids.map(id=>m.upload?m.evidence[id]:data.evidence[id]).filter(Boolean).sort((a,b)=>quality(b)-quality(a))};
  });
- const opportunities=themes.filter(t=>t.code!=='T11'&&t.level<2&&t.examples.length).sort((a,b)=>a.level-b.level||b.percent-a.percent);
+ const opportunities=themes.filter(t=>t.code!=='T11'&&t.level<2&&t.concreteCount>0).sort((a,b)=>a.level-b.level||b.percent-a.percent);
  const strong=themes.filter(t=>t.code!=='T11'&&t.level>=2&&t.level>=t.mean);
- return {m,mode,n:pool.length,known,rank:higher+1,ties,mean:average(pool,x=>x.total),themes,opportunities,strong,
+ return {m,mode,n:pool.length,known,rank:higher+1,ties,mean:average(pool,x=>x.total),referenceScores:pool.map(x=>x.total),themes,opportunities,strong,
   breadth:themes.filter(t=>t.code!=='T11'&&t.level>0).length,
   summary:`${m.name} legt ${themes.filter(t=>t.code!=='T11'&&t.level>0).length} van de 10 inhoudelijke mobiliteitsthema’s vast in het ${m.upload?'aangeleverde':'onderzochte'} akkoord. ${strong.length} thema’s zijn concreet uitgewerkt en scoren minstens op het gemiddelde van de gekozen vergelijkingsgroep. ${opportunities.length?`De belangrijkste verkenningsvraag is ${opportunities[0].short.toLowerCase()}.`:'Alle inhoudelijke thema’s zijn ten minste concreet uitgewerkt; gebruik de voorbeelden om de lokale keuzes verder te verdiepen.'}`};
 }
