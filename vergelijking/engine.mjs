@@ -52,7 +52,8 @@ export function scan(name,pages,file){
     evidence[id]={id,name,page:p.page,text,level,csv:null};ids.push(id);
    }
   }
-  themes[code]={level:ids.length?Math.max(...ids.map(i=>evidence[i].level)):0,ids:ids.slice(0,12)};
+  ids.sort((a,b)=>evidence[b].level-evidence[a].level);
+  themes[code]={level:ids.length?evidence[ids[0]].level:0,ids:ids.slice(0,12)};
  }
  const levels=Object.values(themes).slice(0,10).map(t=>t.level);
  const aParts=[themes.T11.level>=2?2:themes.T11.level?1:0,levels.filter(x=>x>0).length>=7?2:levels.some(x=>x>0)?1:0,Math.max(themes.T04.level,themes.T10.level)>=2?2:Math.max(themes.T04.level,themes.T10.level)>0?1:0,themes.T06.level>=2?2:themes.T06.level?1:0,levels.filter(x=>x>=2).length>=4?2:levels.some(x=>x>=2)?1:0];

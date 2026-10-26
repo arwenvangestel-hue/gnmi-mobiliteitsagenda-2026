@@ -34,3 +34,8 @@ test('unrelated safety, recreation and sewer maintenance are excluded',()=>{
  const m=scan('Test',[{page:'1',text:'Wij stimuleren recreatief wandelen en fietsen als sport en toerisme. We investeren in veilige buurten. Het onderhoud van riolering en groen wordt beter.'}],'test.txt');
  for(const code of ['T01','T02','T10'])assert.equal(m.themes[code].level,0);
 });
+test('the strongest upload evidence remains visible beyond the first twelve matches',()=>{
+ const text=Array(14).fill('We willen meer aandacht voor verkeersveiligheid.').join(' ')+' We investeren in een meerjarenprogramma voor verkeersveiligheid.';
+ const m=scan('Test',[{page:'1',text}],'test.txt');assert.equal(m.themes.T01.level,3);
+ assert.ok(m.themes.T01.ids.some(id=>m.evidence[id].level===3));
+});
