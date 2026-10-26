@@ -15,6 +15,8 @@ export const context={
 };
 export function cohort(data,mode='all'){return data.municipalities.filter(m=>mode==='all'||(mode==='direct'?m.route==='Rechtstreeks':m.route==='Via regio'));}
 export function average(list,fn){return list.length?list.reduce((s,m)=>s+fn(m),0)/list.length:0;}
+const evidenceTerms={T01:/verkeersveilig|schoolroute|30 km|fatbike/i,T02:/fiets|loopagenda|voetganger/i,T03:/openbaar vervoer|\bOV\b|busverbinding|treinstation|HOV|concessie/i,T04:/doorstroming|wegennet|ontsluit|ringbaan|verkeerscirculatie/i,T05:/parkeer/i,T06:/(?:woning|wonen|gebied|ruimte|leefomgeving).{0,200}(?:mobiliteit|verkeer)|(?:mobiliteit|verkeer).{0,200}(?:woning|wonen|gebied|ruimte|leefomgeving)/i,T07:/deelmobiliteit|deelauto|laad|slimme mobiliteit|duurzame mobiliteit|zero.emissie/i,T08:/betaalbaar|toegankelijk.{0,80}(?:vervoer|halte)|(?:vervoer|halte).{0,80}toegankelijk|Bravoflex|doelgroepen|minima/i,T09:/logistiek|vracht|goederen|bevoorrading|taxi|scheepvaart/i,T10:/onderhoud|vervang|wegenbeheer|assetmanagement|civiele/i,T11:/uitvoeringsprogramma|monitoren|mobiliteitsplan|financier|regionale samenwerking/i};
+function evidenceQuality(code,e){return (evidenceTerms[code].test(e.text)?1000:0)+e.level*100+(/programma|strategie|agenda|beleidsplan/i.test(e.text)?80:0)+Math.min(e.text.length,230)+(e.text.length>=90?100:-180)+(e.text.length<=650?70:-e.text.length/12)+(/[.!?]$/.test(e.text)?35:0);}
 export function report(data,m,mode='all'){
  const pool=cohort(data,mode), known=pool.some(x=>x.name===m.name)&&!m.upload;
  const higher=pool.filter(x=>x.total>m.total).length, ties=pool.filter(x=>x.total===m.total).length;
@@ -22,11 +24,11 @@ export function report(data,m,mode='all'){
   const count=pool.filter(x=>x.themes[code].level>0).length,mean=average(pool,x=>x.themes[code].level);
   const peers=pool.filter(x=>x.name!==m.name&&x.themes[code].level>level&&x.themes[code].level>=2)
     .sort((a,b)=>(b.province===m.province)-(a.province===m.province)||b.themes[code].level-a.themes[code].level||a.name.localeCompare(b.name,'nl'));
-  const quality=e=>Math.min(e.text.length,230)+(e.text.length>=90?100:-180)+(e.text.length<=650?70:-e.text.length/12)+(/[.!?]$/.test(e.text)?35:0)+(e.level>=2?25:0);
+  const quality=e=>evidenceQuality(code,e);
   const candidates=peers.map(x=>{const es=x.themes[code].ids.map(id=>data.evidence[id]).filter(Boolean).sort((a,b)=>quality(b)-quality(a));return {name:x.name,url:x.url,file:x.file,level:x.themes[code].level,evidence:es[0]};});
-  const readable=candidates.filter(x=>x.evidence&&quality(x.evidence)>180);
+  const readable=candidates.filter(x=>x.evidence&&x.evidence.text.length>=90);
   const examples=(readable.length?readable:candidates).slice(0,3);
-  return {...t,...context[code],code,level,count,mean,percent:count/pool.length*100,examples,own:m.themes[code].ids.map(id=>m.upload?m.evidence[id]:data.evidence[id]).filter(Boolean)};
+  return {...t,...context[code],code,level,count,mean,percent:count/pool.length*100,examples,own:m.themes[code].ids.map(id=>m.upload?m.evidence[id]:data.evidence[id]).filter(Boolean).sort((a,b)=>quality(b)-quality(a))};
  });
  const opportunities=themes.filter(t=>t.code!=='T11'&&t.level<2&&t.examples.length).sort((a,b)=>a.level-b.level||b.percent-a.percent);
  const strong=themes.filter(t=>t.code!=='T11'&&t.level>=2&&t.level>=t.mean);

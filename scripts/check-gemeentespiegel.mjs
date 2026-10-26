@@ -39,3 +39,9 @@ test('the strongest upload evidence remains visible beyond the first twelve matc
  const m=scan('Test',[{page:'1',text}],'test.txt');assert.equal(m.themes.T01.level,3);
  assert.ok(m.themes.T01.ids.some(id=>m.evidence[id].level===3));
 });
+test('Tilburg evidence examples show mobility context',()=>{
+ const r=report(data,data.municipalities.find(m=>m.name==='Tilburg'));
+ assert.match(r.themes.find(t=>t.code==='T03').own[0].text,/OV|openbaar vervoer|concessie/);
+ assert.doesNotMatch(r.themes.find(t=>t.code==='T03').own[0].text,/Stichting Spoor/);
+ assert.match(r.themes.find(t=>t.code==='T02').own[0].text,/fiets.*loopagenda/);
+});
