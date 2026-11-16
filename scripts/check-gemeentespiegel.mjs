@@ -20,6 +20,7 @@ test('Tilburg matches published score, shared rank and asset management gap',()=
  assert.equal(m.total,27.5);assert.equal(m.rank,17);assert.equal(report(data,m,'direct').rank,17);
  assert.equal(r.rank,26);assert.equal(r.breadth,9);assert.equal(r.opportunities[0].code,'T10');
  assert.equal(r.themes.find(t=>t.code==='T10').count,57);
+ assert.equal(Math.round(r.themes.find(t=>t.code==='T10').percent),68);
 });
 test('equal scores share one rank and regional averages never enter the pool',()=>{
  const full=data.municipalities.filter(m=>m.total===30);
@@ -28,8 +29,19 @@ test('equal scores share one rank and regional averages never enter the pool',()
 });
 test('upload is kept outside the frozen population',()=>{
  const m=scan('Nieuw',[{page:'1',text:'We verbeteren verkeersveiligheid en investeren in een meerjarenprogramma voor onderhoud van wegen en bruggen.'}],'nieuw.pdf');
- assert.equal(m.themes.T10.level,3);assert.equal(report(data,m).known,false);assert.equal(data.municipalities.length,85);
+ assert.equal(m.themes.T10.level,3);
+ assert.equal(report(data,m).known,false);
+ assert.equal(report(data,m).n,85);
  const old=m.total;updateUpload(m,'T10',0);assert.ok(m.total<old);assert.equal(m.total,m.a+m.b+m.c);
+});
+test('a new scan for a studied municipality also excludes its published agreement',()=>{
+ const m=scan(' gemeente TILBURG ',[{page:'1',text:'Cultuur en sport.'}],'eigen.txt');
+ const r=report(data,m);
+ assert.equal(r.known,false);
+ assert.equal(r.n,84);
+ assert.equal(r.rank,85);
+ assert.ok(!r.peers.some(x=>x.name==='Tilburg'));
+ assert.equal(overview(r).rankLabel,'Indicatieve vergelijkingsplek');
 });
 test('unrelated safety, recreation and sewer maintenance are excluded',()=>{
  const m=scan('Test',[{page:'1',text:'Wij stimuleren recreatief wandelen en fietsen als sport en toerisme. We investeren in veilige buurten. Het onderhoud van riolering en groen wordt beter.'}],'test.txt');
@@ -46,9 +58,21 @@ test('Tilburg evidence examples show mobility context',()=>{
  assert.doesNotMatch(r.themes.find(t=>t.code==='T03').own[0].text,/Stichting Spoor/);
  assert.match(r.themes.find(t=>t.code==='T02').own[0].text,/fiets.*loopagenda/);
 });
-test('compact web/PDF model separates intensity from frequency for the same 85 agreements',()=>{
- for(const m of data.municipalities){const r=report(data,m),v=overview(r);assert.equal(v.n,85);assert.equal(v.themes.length,10);assert.equal(r.referenceScores.length,85);assert.ok(v.priorities.length<=3);
-  for(const t of v.themes){assert.equal(t.count,data.municipalities.filter(x=>x.themes[t.code].level>0).length);assert.equal(t.level,m.themes[t.code].level);}
+test('web and PDF compare with the other municipalities and keep the published ranking group',()=>{
+ for(const m of data.municipalities){
+  const r=report(data,m),v=overview(r),others=data.municipalities.filter(x=>x.name!==m.name);
+  assert.equal(v.reference,'Vergeleken met de andere gemeenten');
+  assert.equal(v.n,84);assert.equal(v.themes.length,10);assert.deepEqual(r.peers,others);assert.ok(v.priorities.length<=3);
+  assert.equal(r.rank,1+data.municipalities.filter(x=>x.total>m.total).length);
+  assert.equal(r.rankTotal,85);
+  assert.equal(r.mean,others.reduce((sum,x)=>sum+x.total,0)/84);
+  for(const t of v.themes){
+   const levels=others.map(x=>x.themes[t.code].level);
+   const count=levels.filter(level=>level>0).length;
+   assert.equal(t.count,count);assert.equal(t.percent,count/84*100);
+   assert.equal(t.mean,levels.reduce((sum,level)=>sum+level,0)/84);
+   assert.equal(t.level,m.themes[t.code].level);
+  }
   assert.ok(v.priorities.every(t=>!Object.hasOwn(t,'examples')));
  }
  assert.deepEqual(numberParts(25.25),{integer:'25',decimal:',25'});assert.deepEqual(numberParts(30),{integer:'30',decimal:''});

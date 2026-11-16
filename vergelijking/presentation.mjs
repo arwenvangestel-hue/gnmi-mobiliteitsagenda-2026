@@ -1,4 +1,4 @@
-import {groups} from './engine.mjs';
+import {groups} from './engine.mjs?v=3';
 
 // One shared content model keeps the web overview and its one-page PDF aligned.
 const prompts={
@@ -22,10 +22,12 @@ export function overview(r){
  const priorities=r.opportunities.slice(0,3).map(t=>({...t,
   status:t.level===0?'Niet genoemd in uw akkoord':'Alleen als ambitie genoemd',
   description:prompts[t.code][0],question:prompts[t.code][1],
-  presence:`${Math.round(t.percent)}% van ${r.n} akkoorden`,groupInfo:groups[t.group]}));
+  presence:`${Math.round(t.percent)}% van de andere akkoorden`,groupInfo:groups[t.group]}));
  const concrete=themes.filter(t=>t.level>=2).length;
  const network=[...new Set([...priorities.map(t=>t.group),...r.strong.map(t=>t.group),'mob'])].map(k=>groups[k]);
- return {reference:`${r.n} onderzochte gemeenten`,n:r.n,themes,priorities,network,
+ return {reference:'Vergeleken met de andere gemeenten',
+  rankLabel:r.m.upload?'Indicatieve vergelijkingsplek':`${r.ties>1?'Gedeelde plek':'Plek'} van ${r.rankTotal} gemeenten`,
+  averageLabel:'Gemiddelde van de andere gemeenten',n:r.n,themes,priorities,network,
   profile:`${r.m.name} noemt ${r.breadth} van de 10 mobiliteitsthema’s. ${concrete} daarvan zijn uitgewerkt in maatregelen of een programma.`,
   footnote:'* De score gaat over wat in het akkoord staat, niet over de kwaliteit of uitvoering van beleid. De 85 onderzochte akkoorden vormen geen landelijke steekproef.',
   scale:'0 niet genoemd · 1 ambitie · 2 maatregel · 3 programma'};

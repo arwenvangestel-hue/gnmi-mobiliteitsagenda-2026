@@ -1,12 +1,12 @@
 # Gemeentespiegel
 
-Tweede pagina bij het GNMI-onderzoeksdossier. De openbare vergelijking gebruikt steeds dezelfde 85 onderzochte gemeenteakkoorden. Scores en data uit het oorspronkelijke onderzoek blijven ongewijzigd.
+Tweede pagina bij het GNMI-onderzoeksdossier. De openbare vergelijking gebruikt de akkoorden van de andere onderzochte gemeenten. Voor een onderzochte gemeente zijn dat 84 akkoorden. De rang van een onderzochte gemeente is de positie binnen alle 85 onderzochte gemeenten.
 
 ## Eén overzicht op web en PDF
 
 `presentation.mjs` levert dezelfde inhoud aan de webpagina en de PDF: vier kerncijfers, een gemeenteprofiel, tien inhoudelijke thema’s, maximaal drie verkenningsvragen en passende GNMI-links. De PDF is één A4. Achtergrondinformatie en passages uit het eigen akkoord blijven op de webpagina uitklapbaar. Voorbeelden en citaten van andere gemeenten worden niet getoond.
 
-De themabalken vergelijken de mate van uitwerking op de schaal 0–3. Een aparte kolom toont in hoeveel van de 85 akkoorden het thema wordt genoemd. Dit percentage is geen gemeentelijke score. Gelijke totaalscores delen een plek. Decimalen worden kleiner weergegeven; de oorspronkelijke deelrang en de A/B/C-deelscores staan niet in het overzicht.
+De themabalken vergelijken de mate van uitwerking op de schaal 0–3. Een aparte kolom toont in hoeveel akkoorden van andere gemeenten het thema wordt genoemd. Dit percentage is geen gemeentelijke score. Gelijke totaalscores delen een plek. Decimalen worden kleiner weergegeven; de oorspronkelijke deelrang en de A/B/C-deelscores staan niet in het overzicht.
 
 ## Data en uploads
 
@@ -14,7 +14,7 @@ De themabalken vergelijken de mate van uitwerking op de schaal 0–3. Een aparte
 
 PDF.js leest PDF-tekst met paginaverwijzingen. DOCX en TXT krijgen geen verzonnen paginanummers. Bestanden blijven in de browser. Er zijn grenzen voor bestandsgrootte, tekstomvang en pagina-aantal; een scan zonder tekstlaag heeft eerst OCR nodig.
 
-Nieuwe documenten krijgen een indicatieve lokale tekstscan. Context, ontkenningen en niet-herkende formuleringen kunnen de scan beïnvloeden. Gebruikers kunnen passages controleren en scores aanpassen. Uploads veranderen de 85 referentieakkoorden niet. De berekening benadert de onderzoeksrubriek en vervangt de menselijke controle niet.
+Nieuwe documenten krijgen een indicatieve lokale tekstscan. Context, ontkenningen en niet-herkende formuleringen kunnen de scan beïnvloeden. Gebruikers kunnen passages controleren en scores aanpassen. Bij een upload voor een onderzochte gemeente blijft het gepubliceerde akkoord van die gemeente buiten de vergelijking. De berekening benadert de onderzoeksrubriek en vervangt de menselijke controle niet.
 
 ## Controle
 

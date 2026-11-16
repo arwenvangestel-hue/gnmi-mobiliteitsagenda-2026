@@ -1,6 +1,6 @@
-import {report,cohort,labels,groups,scan,updateUpload} from './engine.mjs?v=2';
-import {makePDF} from './pdf.mjs?v=2';
-import {overview,numberParts} from './presentation.mjs?v=2';
+import {report,labels,scan,updateUpload} from './engine.mjs?v=3';
+import {makePDF} from './pdf.mjs?v=3';
+import {overview,numberParts} from './presentation.mjs?v=3';
 const $=id=>document.getElementById(id), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmt=(x,d=2)=>Number(x).toLocaleString('nl-NL',{maximumFractionDigits:d});
 let data,current,currentReport,busy=false;
@@ -19,21 +19,21 @@ function render(focus=false){
  const r=currentReport=report(data,current,'all'),v=overview(r);
  $('result').hidden=false;$('intro').hidden=true;$('chooser').open=false;$('chooser-summary').textContent='Andere gemeente kiezen';
  $('result-title').textContent=current.name;$('result-kind').textContent=current.upload?'Uw gemeentespiegel · indicatieve scan':'Uw gemeentespiegel · GNMI-onderzoek 2026–2030';
- $('reference-note').textContent=`Vergeleken met ${v.reference}`;
+ $('reference-note').textContent=v.reference;
  $('result-source').textContent=`Bron: ${current.file}${current.upload?' · eigen upload':' · onderzoek 17 september 2026'}`;
  $('upload-notice').hidden=!current.upload;$('copy-link').hidden=!!current.upload;
  $('download-pdf').textContent='Download overzicht · 1 A4 ↓';
  $('scores').innerHTML=[
   {value:scoreHTML(current.total,30),label:current.upload?'Totaalscore* · indicatief':'Totaalscore*'},
-  {value:scoreHTML(r.rank),label:current.upload?'Vergelijkingsplek naast 85 gemeenten':'Gedeelde plek van 85 gemeenten'},
-  {value:scoreHTML(r.mean,30),label:'Gemiddelde van 85 gemeenten'},
+  {value:scoreHTML(r.rank),label:v.rankLabel},
+  {value:scoreHTML(r.mean,30),label:v.averageLabel},
   {value:scoreHTML(r.breadth,10),label:'Mobiliteitsthema’s aanwezig'}
  ].map(c=>`<article class="score-card"><span class="score-value">${c.value}</span><span class="score-label">${esc(c.label)}</span></article>`).join('');
  $('score-footnote').textContent=v.footnote;
  $('personal-summary').textContent=v.profile;
- const bins={};$('distribution').innerHTML=cohort(data,'all').map(m=>{const bucket=Math.round(m.total),stack=bins[bucket]||0;bins[bucket]=stack+1;return `<span class="dist-dot" style="left:${2+m.total/30*96}%;bottom:${4+stack*7}px" title="${esc(m.name)}: ${fmt(m.total)}"></span>`;}).join('')+`<span class="dist-marker" style="left:${2+current.total/30*96}%"><span style="transform:translateX(${current.total>24?-100:current.total<6?0:-50}%)">Uw score · ${fmt(current.total)}</span></span>`;
+ const bins={};$('distribution').innerHTML=r.peers.map(m=>{const bucket=Math.round(m.total),stack=bins[bucket]||0;bins[bucket]=stack+1;return `<span class="dist-dot" style="left:${2+m.total/30*96}%;bottom:${4+stack*7}px" title="${esc(m.name)}: ${fmt(m.total)}"></span>`;}).join('')+`<span class="dist-marker" style="left:${2+current.total/30*96}%"><span style="transform:translateX(${current.total>24?-100:current.total<6?0:-50}%)">Uw score · ${fmt(current.total)}</span></span>`;
  $('distribution').style.height=Math.max(70,12+Math.max(...Object.values(bins))*7)+'px';
- $('theme-chart').innerHTML=v.themes.map(t=>`<div class="theme-row" data-theme="${t.code}"><strong class="theme-title">${esc(t.short)}</strong><div class="intensity"><div class="tracks"><div class="track" role="img" aria-label="Uw gemeente: ${t.level} van 3"><span style="width:${t.level/3*100}%"></span></div><div class="track reference" role="img" title="Gemiddelde van 85 akkoorden: ${fmt(t.mean)} van 3" aria-label="Gemiddelde van 85 akkoorden: ${fmt(t.mean)} van 3"><span style="width:${t.mean/3*100}%"></span></div></div><span class="intensity-value" aria-label="Uw score ${t.level} van 3">${t.level}/3</span></div><div class="prevalence" aria-label="Genoemd in ${t.count} van 85 akkoorden"><strong>${Math.round(t.percent)}%</strong><small>${t.count}/85</small></div></div>`).join('');
+ $('theme-chart').innerHTML=v.themes.map(t=>`<div class="theme-row" data-theme="${t.code}"><strong class="theme-title">${esc(t.short)}</strong><div class="intensity"><div class="tracks"><div class="track" role="img" aria-label="Uw gemeente: ${t.level} van 3"><span style="width:${t.level/3*100}%"></span></div><div class="track reference" role="img" title="${esc(v.averageLabel)}: ${fmt(t.mean)} van 3" aria-label="${esc(v.averageLabel)}: ${fmt(t.mean)} van 3"><span style="width:${t.mean/3*100}%"></span></div></div><span class="intensity-value" aria-label="Uw score ${t.level} van 3">${t.level}/3</span></div><div class="prevalence" aria-label="Genoemd in ${t.count} van ${v.n} andere akkoorden"><strong>${Math.round(t.percent)}%</strong><small>${t.count}/${v.n}</small></div></div>`).join('');
  $('own-evidence').innerHTML=r.themes.map(t=>`<article class="evidence-block"><h3>${esc(t.short)}</h3>${t.own.length?t.own.map(e=>evidenceHTML(e,current.file)).join(''):'<p class="small">Geen passage aangetroffen in de gebruikte akkoordtekst.</p>'}</article>`).join('');
  $('opportunities').innerHTML=v.priorities.length?v.priorities.map(t=>`<article class="opportunity"><span class="badge">${esc(t.status)}<br>Wel in ${esc(t.presence)}</span><h3>${esc(t.short)}</h3><p>${esc(t.description)}</p><p class="question">${esc(t.question)}</p><a href="${t.groupInfo.url}" target="_blank" rel="noopener">Verken dit bij ${t.groupInfo.name} ↗</a></article>`).join(''):'<p class="notice">Alle tien thema’s zijn uitgewerkt in maatregelen of een programma. Bespreek mogelijke vervolgstappen met GNMI.</p>';
  $('network').innerHTML=v.network.map(g=>`<a class="network-chip" href="${g.url}" target="_blank" rel="noopener">${g.name} ↗</a>`).join('');

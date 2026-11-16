@@ -17,18 +17,23 @@ export function cohort(data,mode='all'){return data.municipalities.filter(m=>mod
 export function average(list,fn){return list.length?list.reduce((s,m)=>s+fn(m),0)/list.length:0;}
 const evidenceTerms={T01:/verkeersveilig|schoolroute|30 km|fatbike/i,T02:/fiets|loopagenda|voetganger/i,T03:/openbaar vervoer|\bOV\b|busverbinding|treinstation|HOV|concessie/i,T04:/doorstroming|wegennet|ontsluit|ringbaan|verkeerscirculatie/i,T05:/parkeer/i,T06:/(?:woning|wonen|gebied|ruimte|leefomgeving).{0,200}(?:mobiliteit|verkeer)|(?:mobiliteit|verkeer).{0,200}(?:woning|wonen|gebied|ruimte|leefomgeving)/i,T07:/deelmobiliteit|deelauto|laad|slimme mobiliteit|duurzame mobiliteit|zero.emissie/i,T08:/betaalbaar|toegankelijk.{0,80}(?:vervoer|halte)|(?:vervoer|halte).{0,80}toegankelijk|Bravoflex|doelgroepen|minima/i,T09:/logistiek|vracht|goederen|bevoorrading|taxi|scheepvaart/i,T10:/onderhoud|vervang|wegenbeheer|assetmanagement|civiele/i,T11:/uitvoeringsprogramma|monitoren|mobiliteitsplan|financier|regionale samenwerking/i};
 function evidenceQuality(code,e){return (evidenceTerms[code].test(e.text)?1000:0)+e.level*100+(/programma|strategie|agenda|beleidsplan/i.test(e.text)?80:0)+Math.min(e.text.length,230)+(e.text.length>=90?100:-180)+(e.text.length<=650?70:-e.text.length/12)+(/[.!?]$/.test(e.text)?35:0);}
+function municipalityKey(name){return name.trim().replace(/\s+/g,' ').toLocaleLowerCase('nl-NL').replace(/^gemeente /,'');}
 export function report(data,m,mode='all'){
- const pool=cohort(data,mode), known=pool.some(x=>x.name===m.name)&&!m.upload;
- const higher=pool.filter(x=>x.total>m.total).length, ties=pool.filter(x=>x.total===m.total).length;
+ const pool=cohort(data,mode);
+ const name=municipalityKey(m.name);
+ const peers=pool.filter(x=>municipalityKey(x.name)!==name);
+ const known=!m.upload&&peers.length<pool.length;
+ const ranking=known?pool:peers;
+ const higher=ranking.filter(x=>x.total>m.total).length, ties=ranking.filter(x=>x.total===m.total).length;
  const themes=data.themes.map(t=>{const code=t.Code,level=m.themes[code].level;
-  const count=pool.filter(x=>x.themes[code].level>0).length,mean=average(pool,x=>x.themes[code].level);
+  const count=peers.filter(x=>x.themes[code].level>0).length,mean=average(peers,x=>x.themes[code].level);
   const quality=e=>evidenceQuality(code,e);
-  const concreteCount=pool.filter(x=>x.themes[code].level>=2).length;
-  return {...t,...context[code],code,level,count,mean,percent:count/pool.length*100,concreteCount,own:m.themes[code].ids.map(id=>m.upload?m.evidence[id]:data.evidence[id]).filter(Boolean).sort((a,b)=>quality(b)-quality(a))};
+  const concreteCount=peers.filter(x=>x.themes[code].level>=2).length;
+  return {...t,...context[code],code,level,count,mean,percent:peers.length?count/peers.length*100:0,concreteCount,own:m.themes[code].ids.map(id=>m.upload?m.evidence[id]:data.evidence[id]).filter(Boolean).sort((a,b)=>quality(b)-quality(a))};
  });
  const opportunities=themes.filter(t=>t.code!=='T11'&&t.level<2&&t.concreteCount>0).sort((a,b)=>a.level-b.level||b.percent-a.percent);
  const strong=themes.filter(t=>t.code!=='T11'&&t.level>=2&&t.level>=t.mean);
- return {m,mode,n:pool.length,known,rank:higher+1,ties,mean:average(pool,x=>x.total),referenceScores:pool.map(x=>x.total),themes,opportunities,strong,
+ return {m,mode,n:peers.length,known,rank:higher+1,rankTotal:ranking.length,ties,mean:average(peers,x=>x.total),peers,themes,opportunities,strong,
   breadth:themes.filter(t=>t.code!=='T11'&&t.level>0).length,
   summary:`${m.name} legt ${themes.filter(t=>t.code!=='T11'&&t.level>0).length} van de 10 inhoudelijke mobiliteitsthema’s vast in het ${m.upload?'aangeleverde':'onderzochte'} akkoord. ${strong.length} thema’s zijn concreet uitgewerkt en scoren minstens op het gemiddelde van de gekozen vergelijkingsgroep. ${opportunities.length?`De belangrijkste verkenningsvraag is ${opportunities[0].short.toLowerCase()}.`:'Alle inhoudelijke thema’s zijn ten minste concreet uitgewerkt; gebruik de voorbeelden om de lokale keuzes verder te verdiepen.'}`};
 }
